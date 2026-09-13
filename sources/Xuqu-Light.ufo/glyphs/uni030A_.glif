@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="170" name="top"/>
+  <outline>
+    <contour>
+      <point x="-76" y="94" type="line"/>
+      <point x="-76" y="31" type="line"/>
+      <point x="-44" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="76" y="31" type="line"/>
+      <point x="76" y="94" type="line"/>
+      <point x="45" y="125" type="line"/>
+      <point x="-44" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25" y="35" type="line"/>
+      <point x="-37" y="47" type="line"/>
+      <point x="-37" y="78" type="line"/>
+      <point x="-25" y="90" type="line"/>
+      <point x="26" y="90" type="line"/>
+      <point x="37" y="78" type="line"/>
+      <point x="37" y="47" type="line"/>
+      <point x="26" y="35" type="line"/>
+    </contour>
+  </outline>
+</glyph>

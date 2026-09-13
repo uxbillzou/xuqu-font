@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="796"/>
+  <unicode hex="014D"/>
+  <anchor x="398" y="743" name="top"/>
+  <anchor x="398" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="738" y="425" type="line"/>
+      <point x="628" y="530" type="line"/>
+      <point x="168" y="530" type="line"/>
+      <point x="58" y="425" type="line"/>
+      <point x="58" y="105" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="738" y="105" type="line"/>
+    </contour>
+    <contour>
+      <point x="557" y="172" type="line"/>
+      <point x="551" y="166" type="line"/>
+      <point x="245" y="166" type="line"/>
+      <point x="239" y="172" type="line"/>
+      <point x="239" y="358" type="line"/>
+      <point x="245" y="364" type="line"/>
+      <point x="551" y="364" type="line"/>
+      <point x="557" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="625" y="688" type="line"/>
+      <point x="171" y="688" type="line"/>
+      <point x="171" y="607" type="line"/>
+      <point x="625" y="607" type="line"/>
+    </contour>
+  </outline>
+</glyph>

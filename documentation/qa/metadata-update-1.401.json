@@ -1,0 +1,124 @@
+{
+  "status": "pass",
+  "from_version": "1.400",
+  "to_version": "1.401",
+  "scope": "Metadata-only update; every glyph, metric and OpenType layout table compared",
+  "styles": [
+    {
+      "file": "Xuqu-Bold.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "5ba7cb655f73b74cfcd09c68174377bad11fcf6227deb80202560aed555185b0",
+      "new_sha256": "4599696a09ba91ed415e0c19bf6e52826fd233d5de417fabd2dda7d43258e0bb",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-ExtraBold.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "bf0b84715e5e6dc9a3bd70e7435a1d992a86b3544745e4125a06697dfa6cfe93",
+      "new_sha256": "27ed765c3fc27efcc4ce354f7063fb2c73773779ea16fe3061ac3f8604af31bf",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Light.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "049b8e1822d0bb3884dc63c5326c3ddc1534fba7831a35fd079b7ff81c94e13a",
+      "new_sha256": "ce571cc4d20cd08c575a9ef6a8f968c381f997a498baaaf1dfd815d3e099889a",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Regular.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "86b107ced2ec40528e5a0c234c9349c6e0fd485dfe0f8fa73a5623e3ee45b218",
+      "new_sha256": "f65cac79fd57a80221958a89c542660d8cdb34e380737d89b1e2dcc8a3cdd955",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Thin.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "9da1956f590af8e301ae145372568b04a0583b5cf4d817baea4570b1b9b755c0",
+      "new_sha256": "e58c9df621bf848d661b83d7c9ce7e0869a970983c72e3bb50eac65bd4f56b11",
+      "copyright_license_author_version": "verified"
+    }
+  ],
+  "ofl_text": "unmodified template after actual copyright header; matches font name ID 0"
+}

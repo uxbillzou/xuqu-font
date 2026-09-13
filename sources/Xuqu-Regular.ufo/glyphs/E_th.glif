@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="936"/>
+  <unicode hex="00D0"/>
+  <anchor x="433" y="755" name="top"/>
+  <anchor x="433" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="58" y="395" type="line"/>
+      <point x="-12" y="395" type="line"/>
+      <point x="-12" y="305" type="line"/>
+      <point x="58" y="305" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="878" y="110" type="line"/>
+      <point x="878" y="590" type="line"/>
+      <point x="768" y="700" type="line"/>
+      <point x="58" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="305" type="line"/>
+      <point x="483" y="395" type="line"/>
+      <point x="158" y="395" type="line"/>
+      <point x="158" y="610" type="line"/>
+      <point x="723" y="610" type="line"/>
+      <point x="778" y="555" type="line"/>
+      <point x="778" y="145" type="line"/>
+      <point x="723" y="90" type="line"/>
+      <point x="158" y="90" type="line"/>
+      <point x="158" y="305" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+{
+  "status": "pass",
+  "version": "1.402",
+  "rebuilt_from_committed_ufos": true,
+  "outputs_compared": 10,
+  "same_sha256": true,
+  "files": {
+    "fonts/ttf/Xuqu-Bold.ttf": "982f4905f22cd3bf440c149d466abf28e7aa4117fcd0336bfec84adc5fc340b7",
+    "fonts/ttf/Xuqu-ExtraBold.ttf": "92a49a6948156016a5e891f57168c45bc3b1f966b12851da9a3983cdd8b1f6d2",
+    "fonts/ttf/Xuqu-Light.ttf": "540762cb286b002872c47a43444b158cb927ed2baf95c4bc1637013efb176af3",
+    "fonts/ttf/Xuqu-Regular.ttf": "53baad41ea2e1486bc408dfc93ce13752ebce86ee118e66a18adcb6013a5066f",
+    "fonts/ttf/Xuqu-Thin.ttf": "1239434a9cd39f0ac8066970782d3bd37c19cd8c69d708107e5e2c374b893b4c",
+    "fonts/webfonts/Xuqu-Bold.woff2": "b89441e2a161bd510dac3dc4f090ed87675c2e6b395dceef55c5b28488381fde",
+    "fonts/webfonts/Xuqu-ExtraBold.woff2": "b2bd5e6139b1568a3db6a0cd704b6be3d642b7e819b48b4ef468abdedf8f5417",
+    "fonts/webfonts/Xuqu-Light.woff2": "0a75c175d11c14ab287fc06d0207456f12444aef8b9584b11fa57432981d4c8a",
+    "fonts/webfonts/Xuqu-Regular.woff2": "43efe94223f5eee429bec181de5b2cc8bdf2ed2140295d81128b3025e7036c82",
+    "fonts/webfonts/Xuqu-Thin.woff2": "8576dc3d1c3bcd63bd4b15768c6895e119571980b7fede1f25902b1cedc2bbf3"
+  }
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="956"/>
+  <unicode hex="0102"/>
+  <anchor x="478" y="977" name="top"/>
+  <anchor x="478" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="692" y="0" type="line"/>
+      <point x="898" y="0" type="line"/>
+      <point x="820" y="184" type="line"/>
+      <point x="749" y="352" type="line"/>
+      <point x="747" y="356" type="line"/>
+      <point x="602" y="700" type="line"/>
+      <point x="354" y="700" type="line"/>
+      <point x="209" y="356" type="line"/>
+      <point x="186" y="303" type="line"/>
+      <point x="136" y="184" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="342" y="184" type="line"/>
+      <point x="614" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="356" type="line"/>
+      <point x="478" y="504" type="line"/>
+      <point x="541" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="715" y="874" type="line"/>
+      <point x="657" y="922" type="line"/>
+      <point x="574" y="823" type="line"/>
+      <point x="382" y="823" type="line"/>
+      <point x="299" y="922" type="line"/>
+      <point x="241" y="874" type="line"/>
+      <point x="347" y="747" type="line"/>
+      <point x="609" y="747" type="line"/>
+    </contour>
+  </outline>
+</glyph>

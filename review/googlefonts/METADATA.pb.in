@@ -1,0 +1,66 @@
+# TEMPLATE ONLY: not an active metadata declaration.
+# Name, author and OFL are confirmed. Repository is confirmed; add actual intake date/source commit; validate with Google tooling.
+name: "Xuqu"
+designer: "Xu Zou"
+license: "OFL"
+category: "SANS_SERIF"
+date_added: "{{DATE_ASSIGNED_DURING_ONBOARDING}}"
+subsets: "menu"
+subsets: "latin"
+subsets: "latin-ext"
+fonts {
+  name: "Xuqu"
+  style: "normal"
+  weight: 100
+  filename: "Xuqu-Thin.ttf"
+  post_script_name: "Xuqu-Thin"
+  full_name: "Xuqu Thin"
+  copyright: "Copyright 2026 The Xuqu Project Authors (https://github.com/uxbillzou/xuqu-font)"
+}
+fonts {
+  name: "Xuqu"
+  style: "normal"
+  weight: 300
+  filename: "Xuqu-Light.ttf"
+  post_script_name: "Xuqu-Light"
+  full_name: "Xuqu Light"
+  copyright: "Copyright 2026 The Xuqu Project Authors (https://github.com/uxbillzou/xuqu-font)"
+}
+fonts {
+  name: "Xuqu"
+  style: "normal"
+  weight: 400
+  filename: "Xuqu-Regular.ttf"
+  post_script_name: "Xuqu-Regular"
+  full_name: "Xuqu Regular"
+  copyright: "Copyright 2026 The Xuqu Project Authors (https://github.com/uxbillzou/xuqu-font)"
+}
+fonts {
+  name: "Xuqu"
+  style: "normal"
+  weight: 700
+  filename: "Xuqu-Bold.ttf"
+  post_script_name: "Xuqu-Bold"
+  full_name: "Xuqu Bold"
+  copyright: "Copyright 2026 The Xuqu Project Authors (https://github.com/uxbillzou/xuqu-font)"
+}
+fonts {
+  name: "Xuqu"
+  style: "normal"
+  weight: 800
+  filename: "Xuqu-ExtraBold.ttf"
+  post_script_name: "Xuqu-ExtraBold"
+  full_name: "Xuqu ExtraBold"
+  copyright: "Copyright 2026 The Xuqu Project Authors (https://github.com/uxbillzou/xuqu-font)"
+}
+source {
+  repository_url: "https://github.com/uxbillzou/xuqu-font"
+  commit: "{{ACTUAL_FINAL_COMMIT_HASH}}"
+  branch: "main"
+  files { source_file: "OFL.txt" dest_file: "OFL.txt" }
+  files { source_file: "fonts/ttf/Xuqu-Thin.ttf" dest_file: "Xuqu-Thin.ttf" }
+  files { source_file: "fonts/ttf/Xuqu-Light.ttf" dest_file: "Xuqu-Light.ttf" }
+  files { source_file: "fonts/ttf/Xuqu-Regular.ttf" dest_file: "Xuqu-Regular.ttf" }
+  files { source_file: "fonts/ttf/Xuqu-Bold.ttf" dest_file: "Xuqu-Bold.ttf" }
+  files { source_file: "fonts/ttf/Xuqu-ExtraBold.ttf" dest_file: "Xuqu-ExtraBold.ttf" }
+}

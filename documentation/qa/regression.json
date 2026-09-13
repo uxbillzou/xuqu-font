@@ -1,0 +1,551 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "style": "Thin",
+      "weight": 100,
+      "encoded_characters": 400,
+      "glyphs": 416,
+      "gf_latin_core_encoded_required": 319,
+      "gf_latin_core_missing": [],
+      "original_encoded_retained": 357,
+      "original_glyphs_unchanged": 342,
+      "intentional_changes": [
+        {
+          "codepoint": "U+0031",
+          "outline_difference_area": 81156.8547,
+          "advance_delta": -213
+        },
+        {
+          "codepoint": "U+010F",
+          "outline_difference_area": 13419.0,
+          "advance_delta": 37
+        },
+        {
+          "codepoint": "U+0122",
+          "outline_difference_area": 9445.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0123",
+          "outline_difference_area": 2539.2927,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0136",
+          "outline_difference_area": 9808.3333,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0137",
+          "outline_difference_area": 9774.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013B",
+          "outline_difference_area": 9445.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013C",
+          "outline_difference_area": 9445.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013D",
+          "outline_difference_area": 13419.0,
+          "advance_delta": 37
+        },
+        {
+          "codepoint": "U+013E",
+          "outline_difference_area": 8943.0,
+          "advance_delta": 37
+        },
+        {
+          "codepoint": "U+0145",
+          "outline_difference_area": 9733.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0146",
+          "outline_difference_area": 9733.0,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0156",
+          "outline_difference_area": 9776.1589,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0157",
+          "outline_difference_area": 9808.3333,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0165",
+          "outline_difference_area": 13419.0,
+          "advance_delta": 32
+        }
+      ],
+      "A_B_approved_outlines_and_advance": "exact match",
+      "rasterized_nonempty_glyphs": 388,
+      "TTF_WOFF2_equivalence": "pass",
+      "shaping_samples": [
+        "XUQUTECH",
+        "Design the next.",
+        "Aa Bb Gg Qq 0123456789",
+        "Șș Țț Ẁẁ Ẃẃ Ẅẅ Ỳỳ ẞ",
+        "Á x́ í j́ į́",
+        "ď ľ Ľ ť",
+        "á̈ Á̦",
+        "Ģģ Ķķ Ļļ Ņņ"
+      ],
+      "shaping": "pass",
+      "mark_positioning": "pass",
+      "soft_dot_removal": "pass",
+      "catalan_locl": "pass",
+      "tnum": "pass",
+      "proportional_digits": "pass",
+      "retained_kerning_samples": "pass"
+    },
+    {
+      "style": "Light",
+      "weight": 300,
+      "encoded_characters": 400,
+      "glyphs": 416,
+      "gf_latin_core_encoded_required": 319,
+      "gf_latin_core_missing": [],
+      "original_encoded_retained": 357,
+      "original_glyphs_unchanged": 342,
+      "intentional_changes": [
+        {
+          "codepoint": "U+0031",
+          "outline_difference_area": 112965.3854,
+          "advance_delta": -213
+        },
+        {
+          "codepoint": "U+010F",
+          "outline_difference_area": 23711.0,
+          "advance_delta": 54
+        },
+        {
+          "codepoint": "U+0122",
+          "outline_difference_area": 15696.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0123",
+          "outline_difference_area": 3162.8518,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0136",
+          "outline_difference_area": 16238.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0137",
+          "outline_difference_area": 16149.734,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013B",
+          "outline_difference_area": 15696.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013C",
+          "outline_difference_area": 15696.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013D",
+          "outline_difference_area": 23711.0,
+          "advance_delta": 54
+        },
+        {
+          "codepoint": "U+013E",
+          "outline_difference_area": 16133.0,
+          "advance_delta": 54
+        },
+        {
+          "codepoint": "U+0145",
+          "outline_difference_area": 16176.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0146",
+          "outline_difference_area": 16176.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0156",
+          "outline_difference_area": 16278.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0157",
+          "outline_difference_area": 16278.9744,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0165",
+          "outline_difference_area": 23711.0,
+          "advance_delta": 49
+        }
+      ],
+      "A_B_approved_outlines_and_advance": "exact match",
+      "rasterized_nonempty_glyphs": 388,
+      "TTF_WOFF2_equivalence": "pass",
+      "shaping_samples": [
+        "XUQUTECH",
+        "Design the next.",
+        "Aa Bb Gg Qq 0123456789",
+        "Șș Țț Ẁẁ Ẃẃ Ẅẅ Ỳỳ ẞ",
+        "Á x́ í j́ į́",
+        "ď ľ Ľ ť",
+        "á̈ Á̦",
+        "Ģģ Ķķ Ļļ Ņņ"
+      ],
+      "shaping": "pass",
+      "mark_positioning": "pass",
+      "soft_dot_removal": "pass",
+      "catalan_locl": "pass",
+      "tnum": "pass",
+      "proportional_digits": "pass",
+      "retained_kerning_samples": "pass"
+    },
+    {
+      "style": "Regular",
+      "weight": 400,
+      "encoded_characters": 400,
+      "glyphs": 416,
+      "gf_latin_core_encoded_required": 319,
+      "gf_latin_core_missing": [],
+      "original_encoded_retained": 357,
+      "original_glyphs_unchanged": 342,
+      "intentional_changes": [
+        {
+          "codepoint": "U+0031",
+          "outline_difference_area": 153777.6711,
+          "advance_delta": -213
+        },
+        {
+          "codepoint": "U+010F",
+          "outline_difference_area": 39235.0,
+          "advance_delta": 77
+        },
+        {
+          "codepoint": "U+0122",
+          "outline_difference_area": 20235.0625,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0123",
+          "outline_difference_area": 3240.4728,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0136",
+          "outline_difference_area": 21245.95,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0137",
+          "outline_difference_area": 20940.175,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013B",
+          "outline_difference_area": 20235.0625,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013C",
+          "outline_difference_area": 20374.0625,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013D",
+          "outline_difference_area": 39235.0,
+          "advance_delta": 77
+        },
+        {
+          "codepoint": "U+013E",
+          "outline_difference_area": 26775.0,
+          "advance_delta": 77
+        },
+        {
+          "codepoint": "U+0145",
+          "outline_difference_area": 21003.0625,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0146",
+          "outline_difference_area": 21003.0625,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0156",
+          "outline_difference_area": 21245.95,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0157",
+          "outline_difference_area": 21245.95,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0165",
+          "outline_difference_area": 39235.0,
+          "advance_delta": 72
+        }
+      ],
+      "A_B_approved_outlines_and_advance": "exact match",
+      "rasterized_nonempty_glyphs": 388,
+      "TTF_WOFF2_equivalence": "pass",
+      "shaping_samples": [
+        "XUQUTECH",
+        "Design the next.",
+        "Aa Bb Gg Qq 0123456789",
+        "Șș Țț Ẁẁ Ẃẃ Ẅẅ Ỳỳ ẞ",
+        "Á x́ í j́ į́",
+        "ď ľ Ľ ť",
+        "á̈ Á̦",
+        "Ģģ Ķķ Ļļ Ņņ"
+      ],
+      "shaping": "pass",
+      "mark_positioning": "pass",
+      "soft_dot_removal": "pass",
+      "catalan_locl": "pass",
+      "tnum": "pass",
+      "proportional_digits": "pass",
+      "retained_kerning_samples": "pass"
+    },
+    {
+      "style": "Bold",
+      "weight": 700,
+      "encoded_characters": 400,
+      "glyphs": 416,
+      "gf_latin_core_encoded_required": 319,
+      "gf_latin_core_missing": [],
+      "original_encoded_retained": 357,
+      "original_glyphs_unchanged": 342,
+      "intentional_changes": [
+        {
+          "codepoint": "U+0031",
+          "outline_difference_area": 158022.7909,
+          "advance_delta": -213
+        },
+        {
+          "codepoint": "U+010F",
+          "outline_difference_area": 50913.0,
+          "advance_delta": 103
+        },
+        {
+          "codepoint": "U+0122",
+          "outline_difference_area": 21798.8202,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0123",
+          "outline_difference_area": 3499.4416,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0136",
+          "outline_difference_area": 22556.6966,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0137",
+          "outline_difference_area": 22671.6966,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013B",
+          "outline_difference_area": 21798.8202,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013C",
+          "outline_difference_area": 21798.8202,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013D",
+          "outline_difference_area": 50913.0,
+          "advance_delta": 103
+        },
+        {
+          "codepoint": "U+013E",
+          "outline_difference_area": 35275.0,
+          "advance_delta": 103
+        },
+        {
+          "codepoint": "U+0145",
+          "outline_difference_area": 22782.8202,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0146",
+          "outline_difference_area": 22782.8202,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0156",
+          "outline_difference_area": 22671.6966,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0157",
+          "outline_difference_area": 22671.6966,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0165",
+          "outline_difference_area": 50913.0,
+          "advance_delta": 98
+        }
+      ],
+      "A_B_approved_outlines_and_advance": "exact match",
+      "rasterized_nonempty_glyphs": 388,
+      "TTF_WOFF2_equivalence": "pass",
+      "shaping_samples": [
+        "XUQUTECH",
+        "Design the next.",
+        "Aa Bb Gg Qq 0123456789",
+        "Șș Țț Ẁẁ Ẃẃ Ẅẅ Ỳỳ ẞ",
+        "Á x́ í j́ į́",
+        "ď ľ Ľ ť",
+        "á̈ Á̦",
+        "Ģģ Ķķ Ļļ Ņņ"
+      ],
+      "shaping": "pass",
+      "mark_positioning": "pass",
+      "soft_dot_removal": "pass",
+      "catalan_locl": "pass",
+      "tnum": "pass",
+      "proportional_digits": "pass",
+      "retained_kerning_samples": "pass"
+    },
+    {
+      "style": "ExtraBold",
+      "weight": 800,
+      "encoded_characters": 400,
+      "glyphs": 416,
+      "gf_latin_core_encoded_required": 319,
+      "gf_latin_core_missing": [],
+      "original_encoded_retained": 357,
+      "original_glyphs_unchanged": 342,
+      "intentional_changes": [
+        {
+          "codepoint": "U+0031",
+          "outline_difference_area": 155427.3481,
+          "advance_delta": -213
+        },
+        {
+          "codepoint": "U+010F",
+          "outline_difference_area": 64446.0,
+          "advance_delta": 125
+        },
+        {
+          "codepoint": "U+0122",
+          "outline_difference_area": 24264.2765,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0123",
+          "outline_difference_area": 4121.2447,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0136",
+          "outline_difference_area": 25381.4148,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0137",
+          "outline_difference_area": 25381.4148,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013B",
+          "outline_difference_area": 24264.2765,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013C",
+          "outline_difference_area": 24077.2765,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+013D",
+          "outline_difference_area": 64446.0,
+          "advance_delta": 125
+        },
+        {
+          "codepoint": "U+013E",
+          "outline_difference_area": 44724.0,
+          "advance_delta": 125
+        },
+        {
+          "codepoint": "U+0145",
+          "outline_difference_area": 25464.2765,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0146",
+          "outline_difference_area": 25456.7765,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0156",
+          "outline_difference_area": 25479.4148,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0157",
+          "outline_difference_area": 25479.4148,
+          "advance_delta": 0
+        },
+        {
+          "codepoint": "U+0165",
+          "outline_difference_area": 64446.0,
+          "advance_delta": 120
+        }
+      ],
+      "A_B_approved_outlines_and_advance": "exact match",
+      "rasterized_nonempty_glyphs": 388,
+      "TTF_WOFF2_equivalence": "pass",
+      "shaping_samples": [
+        "XUQUTECH",
+        "Design the next.",
+        "Aa Bb Gg Qq 0123456789",
+        "Șș Țț Ẁẁ Ẃẃ Ẅẅ Ỳỳ ẞ",
+        "Á x́ í j́ į́",
+        "ď ľ Ľ ť",
+        "á̈ Á̦",
+        "Ģģ Ķķ Ļļ Ņņ"
+      ],
+      "shaping": "pass",
+      "mark_positioning": "pass",
+      "soft_dot_removal": "pass",
+      "catalan_locl": "pass",
+      "tnum": "pass",
+      "proportional_digits": "pass",
+      "retained_kerning_samples": "pass"
+    }
+  ],
+  "weight_progression": {
+    "nonincreasing": [],
+    "checked_codepoints": 400
+  },
+  "failures": [],
+  "limitations": [
+    "No macOS/Windows GUI installation acceptance test",
+    "No Adobe/Figma GUI testing",
+    "Fontspector network checks are disabled",
+    "Google design review and name acceptance remain pending; owner has approved the family-wide OFL grant"
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="193" name="top"/>
+  <outline>
+    <contour>
+      <point x="-135" y="148" type="line"/>
+      <point x="-233" y="62" type="line"/>
+      <point x="-193" y="16" type="line"/>
+      <point x="-112" y="87" type="line"/>
+      <point x="-61" y="87" type="line"/>
+      <point x="46" y="8" type="line"/>
+      <point x="142" y="8" type="line"/>
+      <point x="229" y="96" type="line"/>
+      <point x="185" y="139" type="line"/>
+      <point x="116" y="70" type="line"/>
+      <point x="66" y="70" type="line"/>
+      <point x="-40" y="148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

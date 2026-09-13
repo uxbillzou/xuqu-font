@@ -1,0 +1,33 @@
+{
+  "family_name": "Xuqu",
+  "version": "1.402",
+  "source_version": "1.300",
+  "author_display": "Xu Zou / 邹旭（序曲）",
+  "author_email": "zouxu@xuqutech.com",
+  "repository_url": "https://github.com/uxbillzou/xuqu-font",
+  "designer_url": "",
+  "copyright_holders": [
+    "Xu Zou (邹旭)"
+  ],
+  "contact_wechat": "w86166569",
+  "ofl_entire_family_approved": true,
+  "name_approved": true,
+  "copyright_holders_confirmed": true,
+  "cla_completed": true,
+  "source_provenance": "AI-assisted custom vector design based on the user-supplied XUQU Tech wordmark; v1.3 approved letterforms.",
+  "build_state": "local_release_metadata_prepared",
+  "copyright_year": 2026,
+  "owner_confirmation": {
+    "date": "2026-09-13",
+    "ofl_scope": "All existing and future styles of the Xuqu family",
+    "owner_type": "individual",
+    "english_name": "Xu Zou"
+  },
+  "github_username": "uxbillzou",
+  "contact_source": "https://github.com/uxbillzou/xuqu/blob/main/index.html",
+  "cla_status": {
+    "status": "submitted_by_owner",
+    "evidence": "Owner confirmation and Google Individual CLA submission-success screen supplied in this conversation",
+    "google_account_match_verified": false
+  }
+}

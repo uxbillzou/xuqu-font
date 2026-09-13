@@ -1,0 +1,8 @@
+{
+  "retrieved": "2026-09-13",
+  "glyphset": {
+    "url": "https://raw.githubusercontent.com/googlefonts/glyphsets/main/data/results/txt/nice-names/GF_Latin_Core.txt",
+    "sha256": "c1773c6cea0b335c00012ef7b06ffc85fdb1bdcb348b105b6c87bd189be72480"
+  },
+  "name_mapping": "glyphsLib 6.14.0 GlyphData metadata (names/Unicode only; no third-party outlines)"
+}

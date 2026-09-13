@@ -1,0 +1,124 @@
+{
+  "status": "pass",
+  "from_version": "1.401",
+  "to_version": "1.402",
+  "scope": "Repository URL and version metadata update; all non-metadata tables compared",
+  "styles": [
+    {
+      "file": "Xuqu-Bold.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "4599696a09ba91ed415e0c19bf6e52826fd233d5de417fabd2dda7d43258e0bb",
+      "new_sha256": "982f4905f22cd3bf440c149d466abf28e7aa4117fcd0336bfec84adc5fc340b7",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-ExtraBold.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "27ed765c3fc27efcc4ce354f7063fb2c73773779ea16fe3061ac3f8604af31bf",
+      "new_sha256": "92a49a6948156016a5e891f57168c45bc3b1f966b12851da9a3983cdd8b1f6d2",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Light.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "ce571cc4d20cd08c575a9ef6a8f968c381f997a498baaaf1dfd815d3e099889a",
+      "new_sha256": "540762cb286b002872c47a43444b158cb927ed2baf95c4bc1637013efb176af3",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Regular.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "f65cac79fd57a80221958a89c542660d8cdb34e380737d89b1e2dcc8a3cdd955",
+      "new_sha256": "53baad41ea2e1486bc408dfc93ce13752ebce86ee118e66a18adcb6013a5066f",
+      "copyright_license_author_version": "verified"
+    },
+    {
+      "file": "Xuqu-Thin.ttf",
+      "glyphs_unchanged": 416,
+      "tables_unchanged": [
+        "GDEF",
+        "GPOS",
+        "GSUB",
+        "OS/2",
+        "STAT",
+        "cmap",
+        "gasp",
+        "glyf",
+        "hhea",
+        "hmtx",
+        "loca",
+        "maxp",
+        "meta",
+        "post"
+      ],
+      "old_sha256": "e58c9df621bf848d661b83d7c9ce7e0869a970983c72e3bb50eac65bd4f56b11",
+      "new_sha256": "1239434a9cd39f0ac8066970782d3bd37c19cd8c69d708107e5e2c374b893b4c",
+      "copyright_license_author_version": "verified"
+    }
+  ],
+  "ofl_text": "Unmodified OFL text; copyright header includes verified project repository and matches all current fonts."
+}

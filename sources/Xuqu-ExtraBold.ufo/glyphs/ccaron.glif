@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
+  <advance width="786"/>
+  <unicode hex="010D"/>
+  <anchor x="393" y="815" name="top"/>
+  <anchor x="393" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="245" y="364" type="line"/>
+      <point x="728" y="364" type="line"/>
+      <point x="728" y="530" type="line"/>
+      <point x="167" y="530" type="line"/>
+      <point x="58" y="425" type="line"/>
+      <point x="58" y="105" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="728" y="166" type="line"/>
+      <point x="245" y="166" type="line"/>
+      <point x="238" y="172" type="line"/>
+      <point x="238" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="760" type="line"/>
+      <point x="393" y="659" type="line"/>
+      <point x="273" y="760" type="line"/>
+      <point x="128" y="760" type="line"/>
+      <point x="343" y="565" type="line"/>
+      <point x="443" y="565" type="line"/>
+      <point x="658" y="760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

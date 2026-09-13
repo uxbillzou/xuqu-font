@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="796"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="81" y="552" type="line"/>
+      <point x="161" y="472" type="line"/>
+      <point x="161" y="218" type="line"/>
+      <point x="81" y="138" type="line"/>
+      <point x="186" y="33" type="line"/>
+      <point x="266" y="113" type="line"/>
+      <point x="520" y="113" type="line"/>
+      <point x="600" y="33" type="line"/>
+      <point x="705" y="138" type="line"/>
+      <point x="625" y="218" type="line"/>
+      <point x="625" y="472" type="line"/>
+      <point x="705" y="552" type="line"/>
+      <point x="600" y="657" type="line"/>
+      <point x="520" y="577" type="line"/>
+      <point x="266" y="577" type="line"/>
+      <point x="186" y="657" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="261" type="line"/>
+      <point x="313" y="261" type="line"/>
+      <point x="313" y="429" type="line"/>
+      <point x="473" y="429" type="line"/>
+    </contour>
+  </outline>
+</glyph>

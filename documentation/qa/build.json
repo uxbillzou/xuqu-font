@@ -1,0 +1,47 @@
+[
+  {
+    "style": "Thin",
+    "weight": 100,
+    "path": "fonts/ttf/Xuqu-Thin.ttf",
+    "sha256": "1239434a9cd39f0ac8066970782d3bd37c19cd8c69d708107e5e2c374b893b4c",
+    "characters": 400,
+    "glyphs": 416,
+    "hinting": "unhinted; gasp 0x000A"
+  },
+  {
+    "style": "Light",
+    "weight": 300,
+    "path": "fonts/ttf/Xuqu-Light.ttf",
+    "sha256": "540762cb286b002872c47a43444b158cb927ed2baf95c4bc1637013efb176af3",
+    "characters": 400,
+    "glyphs": 416,
+    "hinting": "unhinted; gasp 0x000A"
+  },
+  {
+    "style": "Regular",
+    "weight": 400,
+    "path": "fonts/ttf/Xuqu-Regular.ttf",
+    "sha256": "53baad41ea2e1486bc408dfc93ce13752ebce86ee118e66a18adcb6013a5066f",
+    "characters": 400,
+    "glyphs": 416,
+    "hinting": "unhinted; gasp 0x000A"
+  },
+  {
+    "style": "Bold",
+    "weight": 700,
+    "path": "fonts/ttf/Xuqu-Bold.ttf",
+    "sha256": "982f4905f22cd3bf440c149d466abf28e7aa4117fcd0336bfec84adc5fc340b7",
+    "characters": 400,
+    "glyphs": 416,
+    "hinting": "unhinted; gasp 0x000A"
+  },
+  {
+    "style": "ExtraBold",
+    "weight": 800,
+    "path": "fonts/ttf/Xuqu-ExtraBold.ttf",
+    "sha256": "92a49a6948156016a5e891f57168c45bc3b1f966b12851da9a3983cdd8b1f6d2",
+    "characters": 400,
+    "glyphs": 416,
+    "hinting": "unhinted; gasp 0x000A"
+  }
+]

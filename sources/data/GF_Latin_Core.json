@@ -1,0 +1,2270 @@
+[
+  {
+    "name": "dollar",
+    "production_name": "dollar",
+    "unicode": 36,
+    "category": "Symbol",
+    "subCategory": "Currency"
+  },
+  {
+    "name": "percent",
+    "production_name": "percent",
+    "unicode": 37,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "ampersand",
+    "production_name": "ampersand",
+    "unicode": 38,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "plus",
+    "production_name": "plus",
+    "unicode": 43,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "less",
+    "production_name": "less",
+    "unicode": 60,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "equal",
+    "production_name": "equal",
+    "unicode": 61,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "greater",
+    "production_name": "greater",
+    "unicode": 62,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "at",
+    "production_name": "at",
+    "unicode": 64,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "asciicircum",
+    "production_name": "asciicircum",
+    "unicode": 94,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "bar",
+    "production_name": "bar",
+    "unicode": 124,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "asciitilde",
+    "production_name": "asciitilde",
+    "unicode": 126,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "cent",
+    "production_name": "cent",
+    "unicode": 162,
+    "category": "Symbol",
+    "subCategory": "Currency"
+  },
+  {
+    "name": "sterling",
+    "production_name": "sterling",
+    "unicode": 163,
+    "category": "Symbol",
+    "subCategory": "Currency"
+  },
+  {
+    "name": "yen",
+    "production_name": "yen",
+    "unicode": 165,
+    "category": "Symbol",
+    "subCategory": "Currency"
+  },
+  {
+    "name": "section",
+    "production_name": "section",
+    "unicode": 167,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "copyright",
+    "production_name": "copyright",
+    "unicode": 169,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "registered",
+    "production_name": "registered",
+    "unicode": 174,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "degree",
+    "production_name": "degree",
+    "unicode": 176,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "paragraph",
+    "production_name": "paragraph",
+    "unicode": 182,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "multiply",
+    "production_name": "multiply",
+    "unicode": 215,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "divide",
+    "production_name": "divide",
+    "unicode": 247,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "euro",
+    "production_name": "Euro",
+    "unicode": 8364,
+    "category": "Symbol",
+    "subCategory": "Currency"
+  },
+  {
+    "name": "trademark",
+    "production_name": "trademark",
+    "unicode": 8482,
+    "category": "Symbol",
+    "subCategory": null
+  },
+  {
+    "name": "minus",
+    "production_name": "minus",
+    "unicode": 8722,
+    "category": "Symbol",
+    "subCategory": "Math"
+  },
+  {
+    "name": "space",
+    "production_name": "space",
+    "unicode": 32,
+    "category": "Separator",
+    "subCategory": "Space"
+  },
+  {
+    "name": "nbspace",
+    "production_name": "uni00A0",
+    "unicode": 160,
+    "category": "Separator",
+    "subCategory": "Space"
+  },
+  {
+    "name": ".notdef",
+    "production_name": ".notdef",
+    "unicode": null,
+    "category": "Separator",
+    "subCategory": null
+  },
+  {
+    "name": "periodcentered.loclCAT",
+    "production_name": "periodcentered.loclCAT",
+    "unicode": null,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "periodcentered.loclCAT.case",
+    "production_name": "periodcentered.loclCAT.case",
+    "unicode": null,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "exclam",
+    "production_name": "exclam",
+    "unicode": 33,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "quotedbl",
+    "production_name": "quotedbl",
+    "unicode": 34,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "numbersign",
+    "production_name": "numbersign",
+    "unicode": 35,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "quotesingle",
+    "production_name": "quotesingle",
+    "unicode": 39,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "parenleft",
+    "production_name": "parenleft",
+    "unicode": 40,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "parenright",
+    "production_name": "parenright",
+    "unicode": 41,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "asterisk",
+    "production_name": "asterisk",
+    "unicode": 42,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "comma",
+    "production_name": "comma",
+    "unicode": 44,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "hyphen",
+    "production_name": "hyphen",
+    "unicode": 45,
+    "category": "Punctuation",
+    "subCategory": "Dash"
+  },
+  {
+    "name": "period",
+    "production_name": "period",
+    "unicode": 46,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "slash",
+    "production_name": "slash",
+    "unicode": 47,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "colon",
+    "production_name": "colon",
+    "unicode": 58,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "semicolon",
+    "production_name": "semicolon",
+    "unicode": 59,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "question",
+    "production_name": "question",
+    "unicode": 63,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "bracketleft",
+    "production_name": "bracketleft",
+    "unicode": 91,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "backslash",
+    "production_name": "backslash",
+    "unicode": 92,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "bracketright",
+    "production_name": "bracketright",
+    "unicode": 93,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "underscore",
+    "production_name": "underscore",
+    "unicode": 95,
+    "category": "Punctuation",
+    "subCategory": "Dash"
+  },
+  {
+    "name": "braceleft",
+    "production_name": "braceleft",
+    "unicode": 123,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "braceright",
+    "production_name": "braceright",
+    "unicode": 125,
+    "category": "Punctuation",
+    "subCategory": "Parenthesis"
+  },
+  {
+    "name": "exclamdown",
+    "production_name": "exclamdown",
+    "unicode": 161,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "guillemetleft",
+    "production_name": "guillemotleft",
+    "unicode": 171,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "periodcentered",
+    "production_name": "periodcentered",
+    "unicode": 183,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "guillemetright",
+    "production_name": "guillemotright",
+    "unicode": 187,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "questiondown",
+    "production_name": "questiondown",
+    "unicode": 191,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "endash",
+    "production_name": "endash",
+    "unicode": 8211,
+    "category": "Punctuation",
+    "subCategory": "Dash"
+  },
+  {
+    "name": "emdash",
+    "production_name": "emdash",
+    "unicode": 8212,
+    "category": "Punctuation",
+    "subCategory": "Dash"
+  },
+  {
+    "name": "quoteleft",
+    "production_name": "quoteleft",
+    "unicode": 8216,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "quoteright",
+    "production_name": "quoteright",
+    "unicode": 8217,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "quotesinglbase",
+    "production_name": "quotesinglbase",
+    "unicode": 8218,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "quotedblleft",
+    "production_name": "quotedblleft",
+    "unicode": 8220,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "quotedblright",
+    "production_name": "quotedblright",
+    "unicode": 8221,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "quotedblbase",
+    "production_name": "quotedblbase",
+    "unicode": 8222,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "bullet",
+    "production_name": "bullet",
+    "unicode": 8226,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "ellipsis",
+    "production_name": "ellipsis",
+    "unicode": 8230,
+    "category": "Punctuation",
+    "subCategory": null
+  },
+  {
+    "name": "guilsinglleft",
+    "production_name": "guilsinglleft",
+    "unicode": 8249,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "guilsinglright",
+    "production_name": "guilsinglright",
+    "unicode": 8250,
+    "category": "Punctuation",
+    "subCategory": "Quote"
+  },
+  {
+    "name": "zero",
+    "production_name": "zero",
+    "unicode": 48,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "one",
+    "production_name": "one",
+    "unicode": 49,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "two",
+    "production_name": "two",
+    "unicode": 50,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "three",
+    "production_name": "three",
+    "unicode": 51,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "four",
+    "production_name": "four",
+    "unicode": 52,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "five",
+    "production_name": "five",
+    "unicode": 53,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "six",
+    "production_name": "six",
+    "unicode": 54,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "seven",
+    "production_name": "seven",
+    "unicode": 55,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "eight",
+    "production_name": "eight",
+    "unicode": 56,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "nine",
+    "production_name": "nine",
+    "unicode": 57,
+    "category": "Number",
+    "subCategory": "Decimal Digit"
+  },
+  {
+    "name": "grave",
+    "production_name": "grave",
+    "unicode": 96,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "dieresis",
+    "production_name": "dieresis",
+    "unicode": 168,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "macron",
+    "production_name": "macron",
+    "unicode": 175,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "acute",
+    "production_name": "acute",
+    "unicode": 180,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "cedilla",
+    "production_name": "cedilla",
+    "unicode": 184,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "circumflex",
+    "production_name": "circumflex",
+    "unicode": 710,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "caron",
+    "production_name": "caron",
+    "unicode": 711,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "breve",
+    "production_name": "breve",
+    "unicode": 728,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "dotaccent",
+    "production_name": "dotaccent",
+    "unicode": 729,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "ring",
+    "production_name": "ring",
+    "unicode": 730,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "ogonek",
+    "production_name": "ogonek",
+    "unicode": 731,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "tilde",
+    "production_name": "tilde",
+    "unicode": 732,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "hungarumlaut",
+    "production_name": "hungarumlaut",
+    "unicode": 733,
+    "category": "Mark",
+    "subCategory": "Spacing"
+  },
+  {
+    "name": "gravecomb",
+    "production_name": "gravecomb",
+    "unicode": 768,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "acutecomb",
+    "production_name": "acutecomb",
+    "unicode": 769,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "circumflexcomb",
+    "production_name": "uni0302",
+    "unicode": 770,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "tildecomb",
+    "production_name": "tildecomb",
+    "unicode": 771,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "macroncomb",
+    "production_name": "uni0304",
+    "unicode": 772,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "brevecomb",
+    "production_name": "uni0306",
+    "unicode": 774,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "dotaccentcomb",
+    "production_name": "uni0307",
+    "unicode": 775,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "dieresiscomb",
+    "production_name": "uni0308",
+    "unicode": 776,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "ringcomb",
+    "production_name": "uni030A",
+    "unicode": 778,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "hungarumlautcomb",
+    "production_name": "uni030B",
+    "unicode": 779,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "caroncomb",
+    "production_name": "uni030C",
+    "unicode": 780,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "commaaccentcomb",
+    "production_name": "uni0326",
+    "unicode": 806,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "cedillacomb",
+    "production_name": "uni0327",
+    "unicode": 807,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "ogonekcomb",
+    "production_name": "uni0328",
+    "unicode": 808,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "caroncomb.alt",
+    "production_name": "uni030C.alt",
+    "unicode": null,
+    "category": "Mark",
+    "subCategory": "Nonspacing"
+  },
+  {
+    "name": "A",
+    "production_name": "A",
+    "unicode": 65,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "B",
+    "production_name": "B",
+    "unicode": 66,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "C",
+    "production_name": "C",
+    "unicode": 67,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "D",
+    "production_name": "D",
+    "unicode": 68,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "E",
+    "production_name": "E",
+    "unicode": 69,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "F",
+    "production_name": "F",
+    "unicode": 70,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "G",
+    "production_name": "G",
+    "unicode": 71,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "H",
+    "production_name": "H",
+    "unicode": 72,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "I",
+    "production_name": "I",
+    "unicode": 73,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "J",
+    "production_name": "J",
+    "unicode": 74,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "K",
+    "production_name": "K",
+    "unicode": 75,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "L",
+    "production_name": "L",
+    "unicode": 76,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "M",
+    "production_name": "M",
+    "unicode": 77,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "N",
+    "production_name": "N",
+    "unicode": 78,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "O",
+    "production_name": "O",
+    "unicode": 79,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "P",
+    "production_name": "P",
+    "unicode": 80,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Q",
+    "production_name": "Q",
+    "unicode": 81,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "R",
+    "production_name": "R",
+    "unicode": 82,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "S",
+    "production_name": "S",
+    "unicode": 83,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "T",
+    "production_name": "T",
+    "unicode": 84,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "U",
+    "production_name": "U",
+    "unicode": 85,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "V",
+    "production_name": "V",
+    "unicode": 86,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "W",
+    "production_name": "W",
+    "unicode": 87,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "X",
+    "production_name": "X",
+    "unicode": 88,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Y",
+    "production_name": "Y",
+    "unicode": 89,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Z",
+    "production_name": "Z",
+    "unicode": 90,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "a",
+    "production_name": "a",
+    "unicode": 97,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "b",
+    "production_name": "b",
+    "unicode": 98,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "c",
+    "production_name": "c",
+    "unicode": 99,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "d",
+    "production_name": "d",
+    "unicode": 100,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "e",
+    "production_name": "e",
+    "unicode": 101,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "f",
+    "production_name": "f",
+    "unicode": 102,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "g",
+    "production_name": "g",
+    "unicode": 103,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "h",
+    "production_name": "h",
+    "unicode": 104,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "i",
+    "production_name": "i",
+    "unicode": 105,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "j",
+    "production_name": "j",
+    "unicode": 106,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "k",
+    "production_name": "k",
+    "unicode": 107,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "l",
+    "production_name": "l",
+    "unicode": 108,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "m",
+    "production_name": "m",
+    "unicode": 109,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "n",
+    "production_name": "n",
+    "unicode": 110,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "o",
+    "production_name": "o",
+    "unicode": 111,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "p",
+    "production_name": "p",
+    "unicode": 112,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "q",
+    "production_name": "q",
+    "unicode": 113,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "r",
+    "production_name": "r",
+    "unicode": 114,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "s",
+    "production_name": "s",
+    "unicode": 115,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "t",
+    "production_name": "t",
+    "unicode": 116,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "u",
+    "production_name": "u",
+    "unicode": 117,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "v",
+    "production_name": "v",
+    "unicode": 118,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "w",
+    "production_name": "w",
+    "unicode": 119,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "x",
+    "production_name": "x",
+    "unicode": 120,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "y",
+    "production_name": "y",
+    "unicode": 121,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "z",
+    "production_name": "z",
+    "unicode": 122,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ordfeminine",
+    "production_name": "ordfeminine",
+    "unicode": 170,
+    "category": "Letter",
+    "subCategory": "Superscript"
+  },
+  {
+    "name": "ordmasculine",
+    "production_name": "ordmasculine",
+    "unicode": 186,
+    "category": "Letter",
+    "subCategory": "Superscript"
+  },
+  {
+    "name": "Agrave",
+    "production_name": "Agrave",
+    "unicode": 192,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Aacute",
+    "production_name": "Aacute",
+    "unicode": 193,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Acircumflex",
+    "production_name": "Acircumflex",
+    "unicode": 194,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Atilde",
+    "production_name": "Atilde",
+    "unicode": 195,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Adieresis",
+    "production_name": "Adieresis",
+    "unicode": 196,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Aring",
+    "production_name": "Aring",
+    "unicode": 197,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "AE",
+    "production_name": "AE",
+    "unicode": 198,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ccedilla",
+    "production_name": "Ccedilla",
+    "unicode": 199,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Egrave",
+    "production_name": "Egrave",
+    "unicode": 200,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Eacute",
+    "production_name": "Eacute",
+    "unicode": 201,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ecircumflex",
+    "production_name": "Ecircumflex",
+    "unicode": 202,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Edieresis",
+    "production_name": "Edieresis",
+    "unicode": 203,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Igrave",
+    "production_name": "Igrave",
+    "unicode": 204,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Iacute",
+    "production_name": "Iacute",
+    "unicode": 205,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Icircumflex",
+    "production_name": "Icircumflex",
+    "unicode": 206,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Idieresis",
+    "production_name": "Idieresis",
+    "unicode": 207,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Eth",
+    "production_name": "Eth",
+    "unicode": 208,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ntilde",
+    "production_name": "Ntilde",
+    "unicode": 209,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ograve",
+    "production_name": "Ograve",
+    "unicode": 210,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Oacute",
+    "production_name": "Oacute",
+    "unicode": 211,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ocircumflex",
+    "production_name": "Ocircumflex",
+    "unicode": 212,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Otilde",
+    "production_name": "Otilde",
+    "unicode": 213,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Odieresis",
+    "production_name": "Odieresis",
+    "unicode": 214,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Oslash",
+    "production_name": "Oslash",
+    "unicode": 216,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ugrave",
+    "production_name": "Ugrave",
+    "unicode": 217,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Uacute",
+    "production_name": "Uacute",
+    "unicode": 218,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ucircumflex",
+    "production_name": "Ucircumflex",
+    "unicode": 219,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Udieresis",
+    "production_name": "Udieresis",
+    "unicode": 220,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Yacute",
+    "production_name": "Yacute",
+    "unicode": 221,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Thorn",
+    "production_name": "Thorn",
+    "unicode": 222,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "germandbls",
+    "production_name": "germandbls",
+    "unicode": 223,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "agrave",
+    "production_name": "agrave",
+    "unicode": 224,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "aacute",
+    "production_name": "aacute",
+    "unicode": 225,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "acircumflex",
+    "production_name": "acircumflex",
+    "unicode": 226,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "atilde",
+    "production_name": "atilde",
+    "unicode": 227,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "adieresis",
+    "production_name": "adieresis",
+    "unicode": 228,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "aring",
+    "production_name": "aring",
+    "unicode": 229,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ae",
+    "production_name": "ae",
+    "unicode": 230,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ccedilla",
+    "production_name": "ccedilla",
+    "unicode": 231,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "egrave",
+    "production_name": "egrave",
+    "unicode": 232,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "eacute",
+    "production_name": "eacute",
+    "unicode": 233,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ecircumflex",
+    "production_name": "ecircumflex",
+    "unicode": 234,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "edieresis",
+    "production_name": "edieresis",
+    "unicode": 235,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "igrave",
+    "production_name": "igrave",
+    "unicode": 236,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "iacute",
+    "production_name": "iacute",
+    "unicode": 237,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "icircumflex",
+    "production_name": "icircumflex",
+    "unicode": 238,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "idieresis",
+    "production_name": "idieresis",
+    "unicode": 239,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "eth",
+    "production_name": "eth",
+    "unicode": 240,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ntilde",
+    "production_name": "ntilde",
+    "unicode": 241,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ograve",
+    "production_name": "ograve",
+    "unicode": 242,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "oacute",
+    "production_name": "oacute",
+    "unicode": 243,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ocircumflex",
+    "production_name": "ocircumflex",
+    "unicode": 244,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "otilde",
+    "production_name": "otilde",
+    "unicode": 245,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "odieresis",
+    "production_name": "odieresis",
+    "unicode": 246,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "oslash",
+    "production_name": "oslash",
+    "unicode": 248,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ugrave",
+    "production_name": "ugrave",
+    "unicode": 249,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "uacute",
+    "production_name": "uacute",
+    "unicode": 250,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ucircumflex",
+    "production_name": "ucircumflex",
+    "unicode": 251,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "udieresis",
+    "production_name": "udieresis",
+    "unicode": 252,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "yacute",
+    "production_name": "yacute",
+    "unicode": 253,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "thorn",
+    "production_name": "thorn",
+    "unicode": 254,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ydieresis",
+    "production_name": "ydieresis",
+    "unicode": 255,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Amacron",
+    "production_name": "Amacron",
+    "unicode": 256,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "amacron",
+    "production_name": "amacron",
+    "unicode": 257,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Abreve",
+    "production_name": "Abreve",
+    "unicode": 258,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "abreve",
+    "production_name": "abreve",
+    "unicode": 259,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Aogonek",
+    "production_name": "Aogonek",
+    "unicode": 260,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "aogonek",
+    "production_name": "aogonek",
+    "unicode": 261,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Cacute",
+    "production_name": "Cacute",
+    "unicode": 262,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "cacute",
+    "production_name": "cacute",
+    "unicode": 263,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Cdotaccent",
+    "production_name": "Cdotaccent",
+    "unicode": 266,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "cdotaccent",
+    "production_name": "cdotaccent",
+    "unicode": 267,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ccaron",
+    "production_name": "Ccaron",
+    "unicode": 268,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ccaron",
+    "production_name": "ccaron",
+    "unicode": 269,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Dcaron",
+    "production_name": "Dcaron",
+    "unicode": 270,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "dcaron",
+    "production_name": "dcaron",
+    "unicode": 271,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Dcroat",
+    "production_name": "Dcroat",
+    "unicode": 272,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "dcroat",
+    "production_name": "dcroat",
+    "unicode": 273,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Emacron",
+    "production_name": "Emacron",
+    "unicode": 274,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "emacron",
+    "production_name": "emacron",
+    "unicode": 275,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Edotaccent",
+    "production_name": "Edotaccent",
+    "unicode": 278,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "edotaccent",
+    "production_name": "edotaccent",
+    "unicode": 279,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Eogonek",
+    "production_name": "Eogonek",
+    "unicode": 280,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "eogonek",
+    "production_name": "eogonek",
+    "unicode": 281,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ecaron",
+    "production_name": "Ecaron",
+    "unicode": 282,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ecaron",
+    "production_name": "ecaron",
+    "unicode": 283,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Gbreve",
+    "production_name": "Gbreve",
+    "unicode": 286,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "gbreve",
+    "production_name": "gbreve",
+    "unicode": 287,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Gdotaccent",
+    "production_name": "Gdotaccent",
+    "unicode": 288,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "gdotaccent",
+    "production_name": "gdotaccent",
+    "unicode": 289,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Gcommaaccent",
+    "production_name": "uni0122",
+    "unicode": 290,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "gcommaaccent",
+    "production_name": "uni0123",
+    "unicode": 291,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Hbar",
+    "production_name": "Hbar",
+    "unicode": 294,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "hbar",
+    "production_name": "hbar",
+    "unicode": 295,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Imacron",
+    "production_name": "Imacron",
+    "unicode": 298,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "imacron",
+    "production_name": "imacron",
+    "unicode": 299,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Iogonek",
+    "production_name": "Iogonek",
+    "unicode": 302,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "iogonek",
+    "production_name": "iogonek",
+    "unicode": 303,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Idotaccent",
+    "production_name": "Idotaccent",
+    "unicode": 304,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "idotless",
+    "production_name": "dotlessi",
+    "unicode": 305,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Kcommaaccent",
+    "production_name": "uni0136",
+    "unicode": 310,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "kcommaaccent",
+    "production_name": "uni0137",
+    "unicode": 311,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Lacute",
+    "production_name": "Lacute",
+    "unicode": 313,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "lacute",
+    "production_name": "lacute",
+    "unicode": 314,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Lcommaaccent",
+    "production_name": "uni013B",
+    "unicode": 315,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "lcommaaccent",
+    "production_name": "uni013C",
+    "unicode": 316,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Lcaron",
+    "production_name": "Lcaron",
+    "unicode": 317,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "lcaron",
+    "production_name": "lcaron",
+    "unicode": 318,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Lslash",
+    "production_name": "Lslash",
+    "unicode": 321,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "lslash",
+    "production_name": "lslash",
+    "unicode": 322,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Nacute",
+    "production_name": "Nacute",
+    "unicode": 323,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "nacute",
+    "production_name": "nacute",
+    "unicode": 324,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ncommaaccent",
+    "production_name": "uni0145",
+    "unicode": 325,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ncommaaccent",
+    "production_name": "uni0146",
+    "unicode": 326,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ncaron",
+    "production_name": "Ncaron",
+    "unicode": 327,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ncaron",
+    "production_name": "ncaron",
+    "unicode": 328,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ohungarumlaut",
+    "production_name": "Ohungarumlaut",
+    "unicode": 336,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ohungarumlaut",
+    "production_name": "ohungarumlaut",
+    "unicode": 337,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "OE",
+    "production_name": "OE",
+    "unicode": 338,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "oe",
+    "production_name": "oe",
+    "unicode": 339,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Racute",
+    "production_name": "Racute",
+    "unicode": 340,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "racute",
+    "production_name": "racute",
+    "unicode": 341,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Rcaron",
+    "production_name": "Rcaron",
+    "unicode": 344,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "rcaron",
+    "production_name": "rcaron",
+    "unicode": 345,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Sacute",
+    "production_name": "Sacute",
+    "unicode": 346,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "sacute",
+    "production_name": "sacute",
+    "unicode": 347,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Scedilla",
+    "production_name": "Scedilla",
+    "unicode": 350,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "scedilla",
+    "production_name": "scedilla",
+    "unicode": 351,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Scaron",
+    "production_name": "Scaron",
+    "unicode": 352,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "scaron",
+    "production_name": "scaron",
+    "unicode": 353,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Tcaron",
+    "production_name": "Tcaron",
+    "unicode": 356,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "tcaron",
+    "production_name": "tcaron",
+    "unicode": 357,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Umacron",
+    "production_name": "Umacron",
+    "unicode": 362,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "umacron",
+    "production_name": "umacron",
+    "unicode": 363,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Uring",
+    "production_name": "Uring",
+    "unicode": 366,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "uring",
+    "production_name": "uring",
+    "unicode": 367,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Uhungarumlaut",
+    "production_name": "Uhungarumlaut",
+    "unicode": 368,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "uhungarumlaut",
+    "production_name": "uhungarumlaut",
+    "unicode": 369,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Uogonek",
+    "production_name": "Uogonek",
+    "unicode": 370,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "uogonek",
+    "production_name": "uogonek",
+    "unicode": 371,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Wcircumflex",
+    "production_name": "Wcircumflex",
+    "unicode": 372,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "wcircumflex",
+    "production_name": "wcircumflex",
+    "unicode": 373,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ycircumflex",
+    "production_name": "Ycircumflex",
+    "unicode": 374,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ycircumflex",
+    "production_name": "ycircumflex",
+    "unicode": 375,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ydieresis",
+    "production_name": "Ydieresis",
+    "unicode": 376,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Zacute",
+    "production_name": "Zacute",
+    "unicode": 377,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "zacute",
+    "production_name": "zacute",
+    "unicode": 378,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Zdotaccent",
+    "production_name": "Zdotaccent",
+    "unicode": 379,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "zdotaccent",
+    "production_name": "zdotaccent",
+    "unicode": 380,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Zcaron",
+    "production_name": "Zcaron",
+    "unicode": 381,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "zcaron",
+    "production_name": "zcaron",
+    "unicode": 382,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Scommaaccent",
+    "production_name": "uni0218",
+    "unicode": 536,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "scommaaccent",
+    "production_name": "uni0219",
+    "unicode": 537,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Tcommaaccent",
+    "production_name": "uni021A",
+    "unicode": 538,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "tcommaaccent",
+    "production_name": "uni021B",
+    "unicode": 539,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "jdotless",
+    "production_name": "uni0237",
+    "unicode": 567,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Wgrave",
+    "production_name": "Wgrave",
+    "unicode": 7808,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "wgrave",
+    "production_name": "wgrave",
+    "unicode": 7809,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Wacute",
+    "production_name": "Wacute",
+    "unicode": 7810,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "wacute",
+    "production_name": "wacute",
+    "unicode": 7811,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Wdieresis",
+    "production_name": "Wdieresis",
+    "unicode": 7812,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "wdieresis",
+    "production_name": "wdieresis",
+    "unicode": 7813,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Germandbls",
+    "production_name": "uni1E9E",
+    "unicode": 7838,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "Ygrave",
+    "production_name": "Ygrave",
+    "unicode": 7922,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "ygrave",
+    "production_name": "ygrave",
+    "unicode": 7923,
+    "category": "Letter",
+    "subCategory": null
+  },
+  {
+    "name": "idotaccent",
+    "production_name": "i.loclTRK",
+    "unicode": null,
+    "category": "Letter",
+    "subCategory": null
+  }
+]

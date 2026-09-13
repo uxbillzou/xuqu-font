@@ -1,0 +1,24 @@
+{
+  "command": [
+    "fontspector",
+    "-p",
+    "googlefonts",
+    "--skip-network",
+    "--full-lists",
+    "--json",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/documentation/qa/fontspector.json",
+    "--ghmarkdown",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/documentation/qa/fontspector.md",
+    "--html",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/documentation/qa/fontspector.html",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/Xuqu-Bold.ttf",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/Xuqu-ExtraBold.ttf",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/Xuqu-Light.ttf",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/Xuqu-Regular.ttf",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/Xuqu-Thin.ttf",
+    "/workspace/scratch/cbc03b9be171/xuqu-googlefonts-prep/build/googlefonts/ofl/xuqu/OFL.txt"
+  ],
+  "network_checks": "skipped; external metadata egress not authorized",
+  "excluded_checks": [],
+  "returncode": 0
+}

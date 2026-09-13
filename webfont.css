@@ -1,0 +1,8 @@
+/* Generated from project.json. Check license status before distribution. */
+@font-face { font-family: "Xuqu"; font-style: normal; font-weight: 100; font-display: swap; src: url('./fonts/webfonts/Xuqu-Thin.woff2') format('woff2'); }
+@font-face { font-family: "Xuqu"; font-style: normal; font-weight: 300; font-display: swap; src: url('./fonts/webfonts/Xuqu-Light.woff2') format('woff2'); }
+@font-face { font-family: "Xuqu"; font-style: normal; font-weight: 400; font-display: swap; src: url('./fonts/webfonts/Xuqu-Regular.woff2') format('woff2'); }
+@font-face { font-family: "Xuqu"; font-style: normal; font-weight: 700; font-display: swap; src: url('./fonts/webfonts/Xuqu-Bold.woff2') format('woff2'); }
+@font-face { font-family: "Xuqu"; font-style: normal; font-weight: 800; font-display: swap; src: url('./fonts/webfonts/Xuqu-ExtraBold.woff2') format('woff2'); }
+.xuqu { font-family: "Xuqu", sans-serif; font-synthesis: none; }
+.xuqu-tabular { font-variant-numeric: tabular-nums; }

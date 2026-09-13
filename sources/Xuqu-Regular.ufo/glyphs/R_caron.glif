@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron" format="2">
+  <advance width="951"/>
+  <unicode hex="0158"/>
+  <anchor x="476" y="965" name="top"/>
+  <anchor x="476" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="158" y="300" type="line"/>
+      <point x="483" y="300" type="line"/>
+      <point x="743" y="0" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="606" y="300" type="line"/>
+      <point x="738" y="300" type="line"/>
+      <point x="848" y="410" type="line"/>
+      <point x="848" y="590" type="line"/>
+      <point x="738" y="700" type="line"/>
+      <point x="58" y="700" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="555" type="line"/>
+      <point x="748" y="445" type="line"/>
+      <point x="693" y="390" type="line"/>
+      <point x="158" y="390" type="line"/>
+      <point x="158" y="610" type="line"/>
+      <point x="693" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="910" type="line"/>
+      <point x="476" y="830" type="line"/>
+      <point x="380" y="910" type="line"/>
+      <point x="266" y="910" type="line"/>
+      <point x="436" y="755" type="line"/>
+      <point x="516" y="755" type="line"/>
+      <point x="686" y="910" type="line"/>
+    </contour>
+  </outline>
+</glyph>

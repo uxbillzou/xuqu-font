@@ -1,0 +1,37 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn TRK;
+languagesystem latn AZE;
+@AboveMarks = [gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C];
+lookup RemoveDots {
+sub i' @AboveMarks by dotlessi;
+sub j' @AboveMarks by uni0237;
+sub iogonek' @AboveMarks by i.ogonek.dotless;
+} RemoveDots;
+feature ccmp { lookup RemoveDots; } ccmp;
+feature locl {
+script latn;
+language CAT;
+sub l periodcentered' l by periodcentered.loclCAT;
+sub L periodcentered' L by periodcentered.loclCAT.case;
+language TRK;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
+} locl;
+feature tnum {
+sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+} tnum;
+feature ccmp {
+sub [d l L t] uni030C' by caroncomb.alt;
+} ccmp;

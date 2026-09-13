@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance width="756"/>
+  <unicode hex="015B"/>
+  <anchor x="378" y="773" name="top"/>
+  <anchor x="378" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="116" y="363" type="line"/>
+      <point x="116" y="393" type="line"/>
+      <point x="195" y="472" type="line"/>
+      <point x="690" y="472" type="line"/>
+      <point x="690" y="530" type="line"/>
+      <point x="171" y="530" type="line"/>
+      <point x="58" y="417" type="line"/>
+      <point x="58" y="337" type="line"/>
+      <point x="177" y="236" type="line"/>
+      <point x="557" y="236" type="line"/>
+      <point x="640" y="167" type="line"/>
+      <point x="640" y="137" type="line"/>
+      <point x="561" y="58" type="line"/>
+      <point x="66" y="58" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="698" y="113" type="line"/>
+      <point x="698" y="193" type="line"/>
+      <point x="579" y="294" type="line"/>
+      <point x="199" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="602" type="line"/>
+      <point x="516" y="718" type="line"/>
+      <point x="434" y="718" type="line"/>
+      <point x="325" y="602" type="line"/>
+    </contour>
+  </outline>
+</glyph>
