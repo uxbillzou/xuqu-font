@@ -1,7 +1,7 @@
 {
   "package": "XUQU Google Fonts preparation",
   "version": "1.402",
-  "state": "public_repository_ready_pending_manual_issue",
+  "state": "google_fonts_issue_submitted_pending_review",
   "license": "SIL Open Font License 1.1",
   "copyright_holders": [
     "Xu Zou (邹旭)"
@@ -24,8 +24,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "size": 2682,
-      "sha256": "874b3101f0bb57a4818bbf8bafc9b7d0501ec47bc5c7fb4497c9142fd538129d"
+      "size": 3152,
+      "sha256": "5b822c9e03fffc4b4c60f853e6a39efb79707d119ae7b3dd65fcd00a23543c34"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -44,13 +44,13 @@
     },
     {
       "path": "README.md",
-      "size": 5448,
-      "sha256": "269aa62441e415759f3e9d1b0ceaf25fd0d26adf8143d24a17c6066d7576ef39"
+      "size": 5622,
+      "sha256": "ec012bcf32c1b18663f96a4ace85e1a858b9999a04658266f4c49750bc69822f"
     },
     {
       "path": "README.zh-CN.md",
-      "size": 3446,
-      "sha256": "e961020294c9c707219f58195b1168a21181fdac41eb96c2fed1a9e57ece10de"
+      "size": 3532,
+      "sha256": "d8dc9b40a3f49fe0e2cae9847131110c8ba28216fd43e6372caab195d038b56c"
     },
     {
       "path": "START-HERE.html",
@@ -69,8 +69,8 @@
     },
     {
       "path": "documentation/QA-SUMMARY.md",
-      "size": 6238,
-      "sha256": "766a61067a722f9b8707d074653a8e979f8c81ac9c16a47dac8b6282e7f466de"
+      "size": 6299,
+      "sha256": "b9cf8a1116785b7846ba82b3f6a1487e1ceda314fd511ed366dadb4e0ecae54d"
     },
     {
       "path": "documentation/qa/baseline-console.txt",
@@ -219,8 +219,8 @@
     },
     {
       "path": "project.json",
-      "size": 1778,
-      "sha256": "c9a0652838c4c3fb0a0f5f12818620423e707f3f55a634c6a1beaeed43764c53"
+      "size": 2007,
+      "sha256": "4469d0d7fa86bf0fce9e68b7781ef8c86c104009c6d90671f6271e3abb1a69e8"
     },
     {
       "path": "reference/v1.3/README-original.md",
@@ -264,8 +264,8 @@
     },
     {
       "path": "review/LICENSE-STATUS.md",
-      "size": 1632,
-      "sha256": "5350edafd67deb553e8ad98674ed1dfaddc42b264492e14ef7ee7b951bdfe2d2"
+      "size": 1697,
+      "sha256": "4b43e2cb9bf77b3cba031f733fac354ee59e1f4eedfc560649c856fbae48d287"
     },
     {
       "path": "review/OFL.txt.in",
@@ -274,13 +274,13 @@
     },
     {
       "path": "review/OWNER-CHECKLIST.md",
-      "size": 2191,
-      "sha256": "cc9a01c172fca8627c2e814d8859fc1d8ab4367a1b33d08803147d5d14512339"
+      "size": 2349,
+      "sha256": "4d45afbdb11a45c62c151afe441bf2a938449755e189d01caece68ed13371ea8"
     },
     {
       "path": "review/SUBMISSION-STATUS.json",
-      "size": 629,
-      "sha256": "7c870654a90ea086d5dfb109a67071b349c4eda26c1fcae702374694883bd3d0"
+      "size": 1321,
+      "sha256": "d7169178d273a74ac7b544f6a43023d43a1729555e76e9b2c51b9813bb67f617"
     },
     {
       "path": "review/SUBMISSION.en.md",
@@ -289,13 +289,13 @@
     },
     {
       "path": "review/SUBMISSION.zh-CN.md",
-      "size": 2411,
-      "sha256": "7b1f2c0d290a25f2cf963145b6cb6bbb7c33c2ff48bebe821c3acb285e137d3b"
+      "size": 2492,
+      "sha256": "4fb0d2eebad1fa0c91e1a96ccef0ef4d7e8a46adc04ef8d128a6d0bf77138c7d"
     },
     {
       "path": "review/SUBMIT-TO-GOOGLE-FONTS.md",
-      "size": 7414,
-      "sha256": "7d0f66c7bf13556028f8664c1187ce808afffce2b2bec88c1283957615530ce0"
+      "size": 1676,
+      "sha256": "f68d19d9cdcf843743b36f702b5b0a9a837d3646756f6d41a194429e116ad710"
     },
     {
       "path": "review/googlefonts/METADATA.pb.in",
@@ -339,8 +339,8 @@
     },
     {
       "path": "scripts/summarize_qa.py",
-      "size": 8811,
-      "sha256": "7f4f1bca2d33683af86a080f65a3ab8cb4a64436050d1cd40848f2cd775c9814"
+      "size": 8872,
+      "sha256": "c7533d02b0a160e63ad807e8e9148b76ac4aa7078d1a3c78e5e0560e3c4ac2dd"
     },
     {
       "path": "scripts/validate.py",

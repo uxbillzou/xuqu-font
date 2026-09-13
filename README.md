@@ -98,9 +98,11 @@ The owner reports submitting the Google Individual CLA and supplied the
 submission-success screen. Google’s contribution-account matching has not yet
 been independently checked. The private CLA screenshot is not part of this repo.
 The owner has confirmed ongoing maintenance and public submission. The name lookup
-found no exact match. The GitHub integration returned 403 when creating the
-google/fonts issue, so **the request has not been sent**. The final body and
-[ready-to-open submission form](review/SUBMIT-TO-GOOGLE-FONTS.md) are saved under `review/`.
+found no exact match. **[Add Xuqu — Google Fonts issue #10962](https://github.com/google/fonts/issues/10962)**
+was submitted by `uxbillzou` on 2026-09-13. At verification it was open with no
+comments or review feedback; inclusion in Google Fonts has not been approved.
+The published body matches `review/SUBMISSION.en.md`. See the
+[submission record](review/SUBMIT-TO-GOOGLE-FONTS.md) for the current recorded status.
 
 ## Contact
 

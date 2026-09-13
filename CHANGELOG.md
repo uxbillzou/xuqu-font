@@ -1,11 +1,19 @@
 # Changelog
 
+## 2026-09-13 — Google Fonts request submitted
+
+- The owner created [Add Xuqu #10962](https://github.com/google/fonts/issues/10962).
+- Verified the issue author, open state and exact match with the prepared body.
+- No comments or review feedback were present at verification.
+- Updated submission records and replaced the new-issue handoff with the existing issue link.
+- Font files and design sources remain version 1.402.
+
 ## 2026-09-13 — submission documentation update (fonts remain 1.402)
 
 - Recorded a live Xuqu name check with no exact-name match.
 - Recorded the owner's maintenance commitment and authorization to submit.
 - Finalized the bilingual intake text and a prefilled manual submission link.
-- GitHub integration issue creation returned 403; no Google Fonts issue was created.
+- At that stage, GitHub integration issue creation returned 403; the owner later completed manual submission as recorded above.
 - No font binaries or design sources changed.
 
 ## 1.402 — verified repository metadata, 2026-09-13

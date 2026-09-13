@@ -1,4 +1,4 @@
-# Xuqu：提交 Google Fonts 前的最后事项
+# Xuqu：Google Fonts 申请进度
 
 版本：1.402。名称、个人版权、整套 OFL 和真实字体仓库已落实。字体与源码项目：**https://github.com/uxbillzou/xuqu-font**。
 
@@ -20,9 +20,12 @@
 - GitHub 上没有查到已有的 Xuqu 收录申请。
 - 最终英文正文已补充名称查询、维护承诺与通过的 GitHub Actions 链接。
 
-## 现在只需要你做的事
+## 申请已提交
 
-通过 [已填好的申请入口](SUBMIT-TO-GOOGLE-FONTS.md)，在自己的 GitHub 账号中完成 Issue 提交。当前集成返回 `403: Resource not accessible by integration`，省略可选标签后仍无权创建；**没有产生 Issue**。不需要再次确认此前授权。
+- [Add Xuqu #10962](https://github.com/google/fonts/issues/10962) 已由 GitHub 账号 uxbillzou 于 2026-09-13 创建。
+- 已核对公开正文，与最终英文稿完全一致。核实时 Issue 为 Open、0 条评论，暂无审核反馈。
+- 之前 GitHub 集成的 403 权限限制已通过作者手动提交完成这一步。
+- 当前没有新增需要作者填写或重新授权的事项；后续在同一 Issue 中处理反馈，无需重复创建申请。
 
 ## 提交后的事项
 

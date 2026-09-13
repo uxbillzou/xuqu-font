@@ -1,6 +1,6 @@
 # Add Xuqu · 中文对照定稿
 
-**申请尚未发送。** 作者已批准公开提交；当前 GitHub 集成创建 Issue 返回 403 权限错误。英文正文已定稿，最后提交见 [入口](SUBMIT-TO-GOOGLE-FONTS.md)。
+**[Add Xuqu #10962](https://github.com/google/fonts/issues/10962) 已提交。** 由 uxbillzou 于 2026-09-13 创建，公开正文与英文定稿完全一致。核实时为 Open、暂无评论；等待维护者反馈。提交记录见 [状态](SUBMIT-TO-GOOGLE-FONTS.md)。
 
 - 项目仓库：https://github.com/uxbillzou/xuqu-font
 - 字体名称：Xuqu；版本：1.402；当前分支：main。

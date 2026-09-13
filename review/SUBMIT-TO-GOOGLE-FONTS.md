@@ -1,26 +1,22 @@
-# Xuqu：最后提交入口 / Submit Xuqu
+# Xuqu：Google Fonts 申请已提交 / Submission record
 
-**名称查询和作者授权已完成。Google Fonts Issue 尚未创建。** 当前 GitHub 集成返回 `403: Resource not accessible by integration`；省略可选标签后仍返回同一权限错误。
+**[Add Xuqu #10962](https://github.com/google/fonts/issues/10962) 已由作者成功提交。** 后续在这条现有 Issue 中查看并处理反馈。
 
-## 完成提交
+| 项目 | 已核实情况 |
+|---|---|
+| 申请 | [google/fonts#10962](https://github.com/google/fonts/issues/10962) |
+| 标题 | Add Xuqu |
+| 提交账号 | uxbillzou |
+| 创建时间（UTC） | 2026-09-13 13:16:41 |
+| 本次核验时间（UTC） | 2026-09-13T13:19:34+00:00 |
+| 本次核验状态 | Open，0 条评论，暂无审核反馈 |
+| 正文 | 与 [英文定稿](SUBMISSION.en.md) 完全一致 |
+| 字体版本 | 1.402，五个静态字重 |
 
-1. 使用你的 GitHub 账号 **uxbillzou**，点击下面的“打开已填好的申请”。
-2. 页面标题应为 **Add Xuqu**，正文包含五字重说明、名称查询、维护承诺、检查结果和样张。
-3. 检查正文后点击 **Create / Submit new issue**，保存生成的 Issue 链接。
+名称查重、维护承诺、公开提交和作者自行提交 CLA 均已有记录。Google 的设计审核、警告处理、接入决定与 CLA 账号关联核验仍以后续官方反馈为准。**创建 Issue 不等于已被 Google Fonts 收录。**
 
-[打开已填好的申请 / Open the prefilled GitHub issue](https://github.com/google/fonts/issues/new?title=Add+Xuqu&body=%2A%2AFont+Project+Git+Repo+URL%3A%2A%2A%0A%0Ahttps%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%0A%0A%2A%2ASuper+short+description+of+the+Font+Family%3A%2A%2A%0A%0AXuqu+is+a+wide+geometric+Latin+display+family+with+cut+corners+and+angular+joins%2C%0Adeveloped+from+the+XUQU+Tech+wordmark+for+branding%2C+posters+and+video+titles.%0AIt+includes+five+static+upright+weights%3A+Thin+100%2C+Light+300%2C+Regular+400%2C%0ABold+700+and+ExtraBold+800.+The+app-menu+family+name+is+%2A%2AXuqu%2A%2A.%0A%0A%2A%2ARequirements%3A%2A%2A%0A%0A-+%5Bx%5D+The+entire+available+font+project+is+in+this+repository+and+licensed+under+SIL+OFL+1.1%2C+including+the+existing+and+future+styles+of+the+family+authorized+by+the+owner.%0A-+%5Bx%5D+No+separate+larger+%E2%80%9Cplus%E2%80%9D+or+%E2%80%9Cpro%E2%80%9D+version+is+part+of+this+project.+All+five+known+styles+and+the+development+sources+are+included.%0A-+%5Bx%5D+Editable+UFO+sources+and+a+fontmake+build+are+available+in+the+repository.%0A-+%5Bx%5D+The+confirmed+personal+copyright+holder+is+Xu+Zou+%28%E9%82%B9%E6%97%AD%29.+AI-assisted+custom+vector%2Ffont+engineering+was+used+and+is+explicitly+disclosed+below+and+in+the+provenance+notes.%0A-+%5Bx%5D+No+Reserved+Font+Names+are+declared+in+the+project+OFL+license.%0A-+%5Bx%5D+The+family+name+is+unique+according+to+%5Bnamecheck.fontdata.com%5D%28https%3A%2F%2Fnamecheck.fontdata.com%2F%3Fq%3DXuqu%29%3A+a+live+query+for+Xuqu+on+2026-09-13+returned+no+exact-name+match.+This+records+the+database+result%2C+not+a+guarantee+across+all+possible+sources.%0A-+%5Bx%5D+The+definitive+app-menu+name+is+Xuqu.+Google+name+acceptance+remains+subject+to+review.%0A-+%5Bx%5D+The+font+supplies+the+pinned+Google+Fonts+Latin+Core+glyphset%3A+all+319+encoded+entries+and+five+required+unencoded+glyphs.%0A-+%5Bx%5D+The+repository+contains+editable+sources%2C+built+fonts%2C+OFL%2C+author+files%2C+build+scripts%2C+documentation+and+specimens+following+the+preferred+upstream+structure.%0A-+%5B+%5D+Full+compliance+with+the+Google+Fonts+contributing+requirements+is+confirmed.+%2A%2AFinal+design+review+and+the+documented+QA+warnings+still+require+maintainer+feedback%3B+acceptance+is+not+presumed.%2A%2A%0A-+%5Bx%5D+I+will+maintain+the+repository+and+participate+in+onboarding%2C+including+responding+to+issues%2C+addressing+fixes+and+reviewing%2Fmerging+pull+requests.%0A%0A%2A%2AAI+use+and+provenance%3A%2A%2A%0A%0AThe+user+supplied+the+XUQU+Tech+wordmark+and+directed+the+family+design.+Custom%0Aoutlines+were+created+through+AI-assisted+Python%2FFontTools%2FShapely+engineering%3B%0Athe+recorded+process+did+not+copy+third-party+font+outlines.+Approved+A%2FB%0Aletterforms%2C+legacy+generation+code+and+the+exact+v1.3+regression+references+are%0Aincluded.+See+%5BPROVENANCE.md%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Fblob%2Fmain%2Fdocumentation%2FPROVENANCE.md%29.%0A%0A%2A%2AVersion%2C+coverage+and+QA%3A%2A%2A%0A%0A-+Current+source+candidate%3A+%2A%2A1.402%2A%2A%2C+branch+%2A%2Amain%2A%2A%2C+font%2Fsource+commit+%5B%60768f9be%60%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Fcommit%2F768f9be66e159b8aa5837f69cae07c6ee036581a%29.%0A-+400+encoded+characters+and+416+glyphs+per+style%3B+no+CJK%2C+italics+or+variable+axes.%0A-+Kerning%2C+mark%2Fmkmk%2C+contextual+dot+removal%2C+locale+substitutions+and+tabular+figures+are+included.%0A-+Local+regression+passes+for+coverage%2C+every+approved+A%2FB+design%2C+actual+weight+progression%2C+representative+HarfBuzz+shaping+and+TTF%2FWOFF2+equivalence.%0A-+All+non-metadata+font+tables+match+1.401%3B+repeated+builds+reproduce+all+ten+output+hashes.%0A-+Fontspector+1.7.4%2C+complete+Google+Fonts+profile%2C+%2A%2Aoffline%2A%2A%3A+%2A%2A467+PASS%2C+51+WARN%2C+0+FAIL%2C+0+ERROR%2FFATAL%2C+32+INFO%2C+303+SKIP%2A%2A.+No+check+IDs+excluded.+Network+checks+are+not+represented+as+passed.%0A-+%5BGitHub+Actions+build+and+offline+QA%3A+passed%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Factions%2Fruns%2F34758217497%29.%0A-+%5BFull+QA+summary+and+warning+triage%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Fblob%2Fmain%2Fdocumentation%2FQA-SUMMARY.md%29.%0A-+Windows%2FmacOS+installation+dialogs+and+Adobe%2FFigma+GUI+acceptance+have+not+been+tested.%0A%0A%2A%2ACLA+and+contact%3A%2A%2A%0A%0AThe+owner+reports+submitting+the+Google+Individual+Contributor+License+Agreement%0Aand+supplied+its+submission-success+screen.+Google%E2%80%99s+contribution-account+match%0Ahas+not+yet+been+independently+verified.+The+private+screenshot+is+not+published.%0A%0ACopyright+holder%2Fcontact%3A+%2A%2AXu+Zou+%28%E9%82%B9%E6%97%AD%29%2A%2A+%C2%B7+GitHub+%2A%2Auxbillzou%2A%2A+%C2%B7+%2A%2Azouxu%40xuqutech.com%2A%2A.%0A%0A%2A%2AImage%3A%2A%2A%0A%0A%21%5BXuqu+%E2%80%94+five+actual+font+weights%5D%28https%3A%2F%2Fraw.githubusercontent.com%2Fuxbillzou%2Fxuqu-font%2Fmain%2Fdocumentation%2Fspecimens%2F01-Five-Weights.png%29%0A%0AAdditional+%5BLatin+Core+proof%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Fblob%2Fmain%2Fdocumentation%2Fspecimens%2F02-Latin-Core-Proof.png%29%0Aand+%5BBold%2FExtraBold+A%E2%80%93B+detail%5D%28https%3A%2F%2Fgithub.com%2Fuxbillzou%2Fxuqu-font%2Fblob%2Fmain%2Fdocumentation%2Fspecimens%2F03-AB-Weight-Detail.png%29.%0A)
+目前没有新增需要作者填写的事项。已有申请入口应继续指向本 Issue，避免重复提交。
 
-如果登录跳转导致预填内容丢失，可从 [英文申请正文](SUBMISSION.en.md) 复制全文，在 [Google Fonts Add Font 模板](https://github.com/google/fonts/issues/new?template=1_add-font.md) 中粘贴，标题填写 **Add Xuqu**。
+此前 GitHub 集成创建 Issue 返回 403；作者已通过自己的账号手动完成提交。机器可读状态见 [SUBMISSION-STATUS.json](SUBMISSION-STATUS.json)，中文申请对照见 [SUBMISSION.zh-CN.md](SUBMISSION.zh-CN.md)。
 
-## 当前状态
-
-- 2026-09-13 在 [namecheck.fontdata.com](https://namecheck.fontdata.com/?q=Xuqu) 实际查询 Xuqu，数据库未找到完全同名字体。查询记录见 [namecheck.json](../documentation/qa/namecheck.json)。
-- 作者已确认持续维护仓库、参与接入以及公开提交申请。
-- CLA 已由作者提交；Google 的账号关联核验仍待贡献流程确认。
-- 五字重字体版本仍为 1.402；字体文件未因本次文档更新改变。
-- 全部要求的最终符合性保持未勾选，等待 Google 对设计与已披露警告的审核。
-- 本入口不自动提交；只有在 GitHub 中点击提交后才会创建公开 Issue。
-
-English: The name lookup and owner approvals are complete. The connected integration cannot create an issue in google/fonts (403). Open the prefilled form above while signed in as uxbillzou, review it and submit. If the prefilled content is lost during login, copy SUBMISSION.en.md into the Add Font template. The request has not been sent and acceptance is not claimed.
-
-Prefilling uses GitHub's documented title/body URL parameters: [GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue#creating-an-issue-from-a-url-query).
+English: **[Add Xuqu #10962](https://github.com/google/fonts/issues/10962) has been submitted** by uxbillzou. At verification the issue was open with no comments or review feedback, and the published body matched the prepared English text exactly. Follow the existing issue for maintainer feedback. Submission is not approval for inclusion; Google Fonts review and CLA account matching remain pending.

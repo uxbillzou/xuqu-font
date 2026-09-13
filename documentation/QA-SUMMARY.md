@@ -59,7 +59,7 @@
 - 作者授权后于 2026-09-13 在 namecheck.fontdata.com 实际查询 Xuqu，未发现完全同名字体；记录见 qa/namecheck.json。这是单独的实时查询，未将 Fontspector 离线网络跳过项改成通过。
 - 303 个 SKIP 包括离线网络项、可变字体不适用项，以及缺少正式接入资料时无法执行的项目。不能将它们计为通过。
 - 未在 Mac/Windows 字体安装界面和 Adobe/Figma GUI 中测试；不声称已通过这些环境验收。
-- 公开仓库为 https://github.com/uxbillzou/xuqu-font。作者已报告提交 CLA 并提供成功页面；Google 账号匹配尚未核验。名称查重和持续维护承诺已完成；GitHub 集成创建 google/fonts Issue 返回 403 权限错误，申请尚未发送。最终稿与手动提交入口见 review/SUBMIT-TO-GOOGLE-FONTS.md；Google 设计审核仍待进行。
+- 公开仓库为 https://github.com/uxbillzou/xuqu-font。作者已报告提交 CLA 并提供成功页面；Google 账号匹配尚未核验。名称查重和持续维护承诺已完成；作者已提交 [Add Xuqu #10962](https://github.com/google/fonts/issues/10962)。本次核实时为 Open、暂无评论，公开正文与定稿一致；Google 设计审核与正式收录仍待进行。详细记录见 review/SUBMISSION-STATUS.json。
 
 ## 原始证据
 

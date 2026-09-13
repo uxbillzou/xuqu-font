@@ -15,7 +15,7 @@
   "copyright_holders_confirmed": true,
   "cla_completed": true,
   "source_provenance": "AI-assisted custom vector design based on the user-supplied XUQU Tech wordmark; v1.3 approved letterforms.",
-  "build_state": "public_repository_ready_pending_manual_issue",
+  "build_state": "google_fonts_issue_submitted_pending_review",
   "copyright_year": 2026,
   "owner_confirmation": {
     "date": "2026-09-13",
@@ -41,9 +41,15 @@
     "evidence": "documentation/qa/namecheck.json"
   },
   "google_fonts_submission": {
-    "status": "blocked_by_github_integration_permissions",
-    "submitted": false,
-    "issue_url": null,
-    "handoff": "review/SUBMIT-TO-GOOGLE-FONTS.md"
+    "status": "submitted_pending_review",
+    "submitted": true,
+    "issue_number": 10962,
+    "issue_url": "https://github.com/google/fonts/issues/10962",
+    "submitted_by": "uxbillzou",
+    "created_at": "2026-09-13T13:16:41Z",
+    "verified_at": "2026-09-13T13:19:34+00:00",
+    "observed_state": "open",
+    "accepted": false,
+    "status_record": "review/SUBMISSION-STATUS.json"
   }
 }

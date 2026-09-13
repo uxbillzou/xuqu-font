@@ -50,7 +50,7 @@ python scripts/run_qa.py --fontspector fontspector
 
 你已确认完成 Google Individual CLA，并提供了提交成功页面。当前记录为“作者已提交”，Google 的账号关联核验仍以后续贡献流程结果为准。仓库不包含这张签署截图。
 
-2026-09-13 已在 namecheck.fontdata.com 查询 Xuqu，未发现完全同名字体；持续维护与公开提交均已获得作者确认。GitHub 集成创建 google/fonts Issue 时返回 403 权限错误，因此**申请尚未发送**。请通过 [已填好的申请入口](review/SUBMIT-TO-GOOGLE-FONTS.md) 完成最后提交。Google 的设计审核仍待进行；未做 Mac/Windows、Adobe/Figma 图形界面安装验收。详细状态见 [清单](review/OWNER-CHECKLIST.md)。
+2026-09-13 已在 namecheck.fontdata.com 查询 Xuqu，未发现完全同名字体；持续维护与公开提交均已获得作者确认。**[Add Xuqu #10962](https://github.com/google/fonts/issues/10962) 已由 uxbillzou 于 2026-09-13 提交**，核实时状态为 Open、暂无评论或审核反馈。申请正文与定稿一致；详细记录见 [申请状态](review/SUBMIT-TO-GOOGLE-FONTS.md)。Google 的设计审核与正式收录仍待进行；未做 Mac/Windows、Adobe/Figma 图形界面安装验收。详细状态见 [清单](review/OWNER-CHECKLIST.md)。
 
 ## 联系方式
 
