@@ -66,10 +66,10 @@ def main():
       '| 次数 | 检查 | 分类 | 说明 |','|---:|---|---|---|']
     for k,n in sorted(counts.items()):cat,msg=TRIAGE[k];lines.append(f'| {n} | `{k}` | {cat} | {msg} |')
     lines+=['','## 未完成和受限部分','',
-      '- 自动审批拒绝了外部名称检查服务的请求，理由是名称/元数据向未经授权目的地发送。未绕过限制；正式名称查重待单独授权或由作者自行核实。',
+      '- 作者授权后于 2026-09-13 在 namecheck.fontdata.com 实际查询 Xuqu，未发现完全同名字体；记录见 qa/namecheck.json。这是单独的实时查询，未将 Fontspector 离线网络跳过项改成通过。',
       f"- {j['summary'].get('SKIP',0)} 个 SKIP 包括离线网络项、可变字体不适用项，以及缺少正式接入资料时无法执行的项目。不能将它们计为通过。",
       '- 未在 Mac/Windows 字体安装界面和 Adobe/Figma GUI 中测试；不声称已通过这些环境验收。',
-      '- 公开仓库为 https://github.com/uxbillzou/xuqu-font。作者已报告提交 CLA 并提供成功页面；Google 账号匹配尚未核验。正式收录申请尚未发送，设计审核、名称查重和持续维护承诺仍需完成。','',
+      '- 公开仓库为 https://github.com/uxbillzou/xuqu-font。作者已报告提交 CLA 并提供成功页面；Google 账号匹配尚未核验。名称查重和持续维护承诺已完成；GitHub 集成创建 google/fonts Issue 返回 403 权限错误，申请尚未发送。最终稿与手动提交入口见 review/SUBMIT-TO-GOOGLE-FONTS.md；Google 设计审核仍待进行。','',
       '## 原始证据','',
       '- `qa/fontspector.json` / `.md` / `.html`：当前官方完整检查结果。',
       '- `qa/baseline-fontspector.json` / `.md`：原 v1.3 的离线基线。',

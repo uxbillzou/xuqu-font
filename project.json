@@ -15,13 +15,17 @@
   "copyright_holders_confirmed": true,
   "cla_completed": true,
   "source_provenance": "AI-assisted custom vector design based on the user-supplied XUQU Tech wordmark; v1.3 approved letterforms.",
-  "build_state": "local_release_metadata_prepared",
+  "build_state": "public_repository_ready_pending_manual_issue",
   "copyright_year": 2026,
   "owner_confirmation": {
     "date": "2026-09-13",
     "ofl_scope": "All existing and future styles of the Xuqu family",
     "owner_type": "individual",
-    "english_name": "Xu Zou"
+    "english_name": "Xu Zou",
+    "maintenance_committed": true,
+    "public_googlefonts_submission_authorized": true,
+    "namecheck_query_authorized": true,
+    "submission_confirmation_date": "2026-09-13"
   },
   "github_username": "uxbillzou",
   "contact_source": "https://github.com/uxbillzou/xuqu/blob/main/index.html",
@@ -29,5 +33,17 @@
     "status": "submitted_by_owner",
     "evidence": "Owner confirmation and Google Individual CLA submission-success screen supplied in this conversation",
     "google_account_match_verified": false
+  },
+  "namecheck_status": {
+    "date": "2026-09-13",
+    "result": "no_exact_name_match",
+    "url": "https://namecheck.fontdata.com/?q=Xuqu",
+    "evidence": "documentation/qa/namecheck.json"
+  },
+  "google_fonts_submission": {
+    "status": "blocked_by_github_integration_permissions",
+    "submitted": false,
+    "issue_url": null,
+    "handoff": "review/SUBMIT-TO-GOOGLE-FONTS.md"
   }
 }

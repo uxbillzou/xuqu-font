@@ -1,0 +1,19 @@
+{
+  "date_utc": "2026-09-13",
+  "query": "Xuqu",
+  "service": "namecheck.fontdata.com",
+  "result_url": "https://namecheck.fontdata.com/?q=Xuqu",
+  "method": "Live public website search form, observed browser DOM",
+  "result": "no_exact_name_match",
+  "displayed_result": "We can't find any font by that exact name …",
+  "similar_names": [
+    "Xesy",
+    "Xyzai",
+    "3x5",
+    "Xahosch",
+    "07x5"
+  ],
+  "scope": "Database exact-name result only; no guarantee across all sources or of Google Fonts acceptance.",
+  "owner_authorized_name_query": true,
+  "font_files_uploaded": false
+}

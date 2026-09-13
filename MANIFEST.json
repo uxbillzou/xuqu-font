@@ -1,8 +1,11 @@
 {
-  "package": "Xuqu upstream font project",
+  "package": "XUQU Google Fonts preparation",
   "version": "1.402",
-  "license": "SIL OFL 1.1",
-  "repository_url": "https://github.com/uxbillzou/xuqu-font",
+  "state": "public_repository_ready_pending_manual_issue",
+  "license": "SIL Open Font License 1.1",
+  "copyright_holders": [
+    "Xu Zou (邹旭)"
+  ],
   "files": [
     {
       "path": ".github/workflows/build.yml",
@@ -21,8 +24,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "size": 2265,
-      "sha256": "d8a6969ac31d51c6ee75e03ab63c3f84aa8396cf0010d6c5b5226fb67e5fbecc"
+      "size": 2682,
+      "sha256": "874b3101f0bb57a4818bbf8bafc9b7d0501ec47bc5c7fb4497c9142fd538129d"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -41,13 +44,13 @@
     },
     {
       "path": "README.md",
-      "size": 5065,
-      "sha256": "83045b62cdb8b7e352b3503310e9124fe7851117709f1128be1ee88523bf78f1"
+      "size": 5448,
+      "sha256": "269aa62441e415759f3e9d1b0ceaf25fd0d26adf8143d24a17c6066d7576ef39"
     },
     {
       "path": "README.zh-CN.md",
-      "size": 3220,
-      "sha256": "53e4903ff7b56d493a2aaf416375502a4f7d80ae0f610de7bd6d07590511d270"
+      "size": 3446,
+      "sha256": "e961020294c9c707219f58195b1168a21181fdac41eb96c2fed1a9e57ece10de"
     },
     {
       "path": "START-HERE.html",
@@ -66,8 +69,8 @@
     },
     {
       "path": "documentation/QA-SUMMARY.md",
-      "size": 6071,
-      "sha256": "6eff47fe0542baa81a303386571419fc2be5b6835b9dad7c37be85e496592f5f"
+      "size": 6238,
+      "sha256": "766a61067a722f9b8707d074653a8e979f8c81ac9c16a47dac8b6282e7f466de"
     },
     {
       "path": "documentation/qa/baseline-console.txt",
@@ -128,6 +131,11 @@
       "path": "documentation/qa/metadata-update.json",
       "size": 3136,
       "sha256": "108176aff9654e4425fa5a0c25b9c2c038bc70da897d831284fdb61db7bbc372"
+    },
+    {
+      "path": "documentation/qa/namecheck.json",
+      "size": 591,
+      "sha256": "cd9a06248864ac0f4078b68ec73c6ee2ed0aed8d52fcde8fa413552a5807298f"
     },
     {
       "path": "documentation/qa/regression.json",
@@ -211,8 +219,8 @@
     },
     {
       "path": "project.json",
-      "size": 1199,
-      "sha256": "6ee14b4aa4ccf6a9f6345be6b33962be4edebdd9db11c8d879be79a580a37031"
+      "size": 1778,
+      "sha256": "c9a0652838c4c3fb0a0f5f12818620423e707f3f55a634c6a1beaeed43764c53"
     },
     {
       "path": "reference/v1.3/README-original.md",
@@ -256,8 +264,8 @@
     },
     {
       "path": "review/LICENSE-STATUS.md",
-      "size": 1500,
-      "sha256": "09e0351938dfd7362a7a0873dba207ce502dbf915e286fd4a561dfcaad964e97"
+      "size": 1632,
+      "sha256": "5350edafd67deb553e8ad98674ed1dfaddc42b264492e14ef7ee7b951bdfe2d2"
     },
     {
       "path": "review/OFL.txt.in",
@@ -266,18 +274,28 @@
     },
     {
       "path": "review/OWNER-CHECKLIST.md",
-      "size": 2300,
-      "sha256": "0478193071d72b9700d8820d6e5a488784dde8ca572028fa28b09f5242048c5e"
+      "size": 2191,
+      "sha256": "cc9a01c172fca8627c2e814d8859fc1d8ab4367a1b33d08803147d5d14512339"
+    },
+    {
+      "path": "review/SUBMISSION-STATUS.json",
+      "size": 629,
+      "sha256": "7c870654a90ea086d5dfb109a67071b349c4eda26c1fcae702374694883bd3d0"
     },
     {
       "path": "review/SUBMISSION.en.md",
-      "size": 4215,
-      "sha256": "79ead1948fe747310f5de472426df420317210329078a21315eb8538c9c4d706"
+      "size": 4492,
+      "sha256": "e4621370f50e6b1bd4ca501cc92dffa9a3a347dcd49f5fc0dc187dd319082645"
     },
     {
       "path": "review/SUBMISSION.zh-CN.md",
-      "size": 2034,
-      "sha256": "eeaeda9ccf18af9ccb7dbbe8a3de183d25448a6013b14ee7b5759f6402fc2b34"
+      "size": 2411,
+      "sha256": "7b1f2c0d290a25f2cf963145b6cb6bbb7c33c2ff48bebe821c3acb285e137d3b"
+    },
+    {
+      "path": "review/SUBMIT-TO-GOOGLE-FONTS.md",
+      "size": 7414,
+      "sha256": "7d0f66c7bf13556028f8664c1187ce808afffce2b2bec88c1283957615530ce0"
     },
     {
       "path": "review/googlefonts/METADATA.pb.in",
@@ -321,8 +339,8 @@
     },
     {
       "path": "scripts/summarize_qa.py",
-      "size": 8644,
-      "sha256": "f4ab5e66c0ef7167e514ac37876d659080a99da3881a6952ccfba0f30a6e75bd"
+      "size": 8811,
+      "sha256": "7f4f1bca2d33683af86a080f65a3ab8cb4a64436050d1cd40848f2cd775c9814"
     },
     {
       "path": "scripts/validate.py",

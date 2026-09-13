@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-13 — submission documentation update (fonts remain 1.402)
+
+- Recorded a live Xuqu name check with no exact-name match.
+- Recorded the owner's maintenance commitment and authorization to submit.
+- Finalized the bilingual intake text and a prefilled manual submission link.
+- GitHub integration issue creation returned 403; no Google Fonts issue was created.
+- No font binaries or design sources changed.
+
 ## 1.402 — verified repository metadata, 2026-09-13
 
 - Added the actual public repository URL to OFL.txt and all five font styles.

@@ -1,6 +1,6 @@
-# Add Xuqu · 中文对照草稿
+# Add Xuqu · 中文对照定稿
 
-**未发送。** 英文稿已按 Google 当前 Add Font 模板准备，未完成的声明保持未勾选。
+**申请尚未发送。** 作者已批准公开提交；当前 GitHub 集成创建 Issue 返回 403 权限错误。英文正文已定稿，最后提交见 [入口](SUBMIT-TO-GOOGLE-FONTS.md)。
 
 - 项目仓库：https://github.com/uxbillzou/xuqu-font
 - 字体名称：Xuqu；版本：1.402；当前分支：main。
@@ -17,6 +17,8 @@ Xuqu 是从序曲科技英文字标发展而来的宽字面几何拉丁展示字
 
 **CLA**：作者已确认提交并提供提交成功页面；后续贡献账号匹配需由 Google 流程核验。截图不公开。
 
-**尚未勾选的声明**：namecheck.fontdata.com 名称查重、全部 Google Fonts 要求的最终符合性、作者未来持续维护承诺。这些不应在未完成或未授权时替你勾选。
+**本次确认**：2026-09-13 在 namecheck.fontdata.com 实际查询 Xuqu，数据库未找到完全同名字体；作者已承诺维护仓库、参与问题处理和接入，并批准公开提交。因此名称查询与维护承诺已勾选。
 
-正式发送会以你的 GitHub 账号在 google/fonts 公开创建收录申请。当前仅准备了可审阅正文。
+**仍未勾选**：全部 Google Fonts 要求的最终符合性。设计与已记录警告需要维护者反馈，不将本地验证视为收录批准。
+
+最终英文正文还包含通过的 [GitHub Actions 构建与离线检查](https://github.com/uxbillzou/xuqu-font/actions/runs/34758217497)，字体/源码提交为 768f9be66e159b8aa5837f69cae07c6ee036581a。

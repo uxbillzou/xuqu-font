@@ -77,7 +77,7 @@ The full Google Fonts profile runs **offline**, with the actual OFL.txt supplied
 as an input and no excluded check IDs. Result: **467 PASS, 51 WARN, 0 FAIL,
 0 ERROR/FATAL, 32 INFO, 303 SKIP**. Warnings are individually discussed in the
 [QA report](documentation/QA-SUMMARY.md); skipped checks are not passes. Network
-name checks and Windows/macOS/Adobe/Figma GUI acceptance have not been completed.
+Fontspector checks remain skipped. A separate live [Xuqu name lookup](https://namecheck.fontdata.com/?q=Xuqu) on 2026-09-13 found no exact-name match; Windows/macOS/Adobe/Figma GUI acceptance has not been completed.
 Google Fonts acceptance is a separate review and is not claimed here.
 
 ## License and ownership
@@ -97,7 +97,10 @@ tools and glyphset data retain their own licenses.
 The owner reports submitting the Google Individual CLA and supplied the
 submission-success screen. Google’s contribution-account matching has not yet
 been independently checked. The private CLA screenshot is not part of this repo.
-Google Fonts submission text is prepared under `review/` and has not been sent.
+The owner has confirmed ongoing maintenance and public submission. The name lookup
+found no exact match. The GitHub integration returned 403 when creating the
+google/fonts issue, so **the request has not been sent**. The final body and
+[ready-to-open submission form](review/SUBMIT-TO-GOOGLE-FONTS.md) are saved under `review/`.
 
 ## Contact
 

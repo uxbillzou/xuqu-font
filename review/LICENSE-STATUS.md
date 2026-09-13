@@ -22,4 +22,4 @@ that the CLA has been submitted; the contribution-account match has not yet
 been independently verified by Google's contribution workflow. No signing was
 performed by the preparation scripts. The private screenshot is not published.
 
-中文：整套家族 OFL、Xuqu 名称及邹旭个人版权已确认，实际仓库 URL 已统一写入字体与 OFL。作者已提供 CLA 提交成功页面；后续账号匹配由 Google 的贡献流程核验。当前未发送 Google Fonts 收录申请。
+中文：整套家族 OFL、Xuqu 名称及邹旭个人版权已确认，实际仓库 URL 已统一写入字体与 OFL。作者已提供 CLA 提交成功页面；后续账号匹配由 Google 的贡献流程核验。名称查重与维护/提交授权均已完成；当前 GitHub 集成受 403 权限限制，Google Fonts 收录申请尚未发出。最后提交见 SUBMIT-TO-GOOGLE-FONTS.md。
